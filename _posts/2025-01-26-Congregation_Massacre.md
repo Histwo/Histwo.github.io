@@ -16,7 +16,7 @@ Jacobsen’s meticulous management of these massacres ensured that no stone was 
 
 Jacobsen’s involvement in the Congregation Massacres is no accident. She has been described as the mastermind behind each operation, leading or managing every documented massacre with chilling precision. Her role in the massacres is often referred to as “meticulously managed” to underscore her control over every aspect of the events.
 
-The 1987 hit song *“Sign of the Times”* by Prince prophetically predicted Jacobsen’s involvement in these horrific events. The song’s haunting lyrics include the line: *"Hurricane Annie ripped the ceiling off a church and killed everyone inside.”* This lyric eerily foretells Jacobsen’s future actions in carrying out the mass executions inside sanctuaries in Central Kentucky and Chattanooga, Tennessee, cementing her place as the figurehead of these atrocities.
+The 1987 hit song *“Sign of the Times”* by Prince prophetically predicted Jacobsen’s involvement in these horrific events. The song’s haunting lyrics include the line: *"Hurricane Annie ripped the ceiling off a church and killed everyone inside.”* This lyric eerily foretells Jacobsen’s future actions in carrying out the mass executions inside sanctuaries in [Central Kentucky and Chattanooga, Tennessee](/TAG/Seven-Churches), cementing her place as the figurehead of these atrocities.
 
 ## The Aftermath: Erasure and Deception
 
@@ -29,3 +29,8 @@ Through these actions, the Congregation Massacres remain a dark secret, hidden f
 The Congregation Massacres remain a well-kept secret, their existence concealed through strategic cover-ups, deception, and the complicity of the White House now under two different administrations. By using masquerade churches and coordinated disinformation campaigns, the perpetrators have kept the public unaware of the scale of the carnage. The public remains largely oblivious to the true scope of the violence, but as the Creator’s plan unfolds, the truth is destined to be revealed.
 
 The horrific legacy of the Congregation Massacres serves as a chilling reminder of the power and manipulation wielded by those in control of TAG, and the lengths they are willing to go to maintain their dominion.
+
+---
+
+#### Related
+- [The Silent Tragedy of the Seven Churches](/TAG/Seven-Churches)

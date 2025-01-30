@@ -1,10 +1,10 @@
 ---
 title: "The Silent Tragedy of the Seven Churches"
 date: 2025-01-26
-permalink: /TAG/Congregation-Massacres
+permalink: /TAG/Seven-Churches
 ---
 
-In a deeply troubling series of covert actions, seven churches across the United States have been targeted, led by Annie Jacobsen, infamously known as "Hurricane Annie" from Prince's "Sign O' The Times," where she "ripped the ceiling off a church and killed everyone inside." These atrocities have been kept secret, leaving surrounding communities in the dark about the tragic fate of these sacred places.
+In a deeply troubling [series of covert actions](/TAG/Congregation-Massacre), seven churches across the United States have been targeted, led by Annie Jacobsen, infamously known as "Hurricane Annie" from Prince's "Sign O' The Times," where she "ripped the ceiling off a church and killed everyone inside." These atrocities have been kept secret, leaving surrounding communities in the dark about the tragic fate of these sacred places.
 
 ## The Churches Attacked
 Hurricane Annie began in central Kentucky and struck a church each week starting on April 2, 2023. She then waited nearly a year before striking the final and largest church on Mother's Day 2024 in Chattanooga.
@@ -65,3 +65,7 @@ The silence surrounding these events leaves communities in a state of unknowing 
 ## Conclusion
 
 This series of attacks and their aftermath paint a grim picture of betrayal and exploitation of faith and need. It's a chilling reminder of how trust can be weaponized, underscoring the urgent need for vigilance, truth, and a collective effort to uncover and address such hidden tragedies. The absence of masquerade churches at the House of God locations does not lessen the tragedy but highlights different facets of the cover-up and ongoing secrecy surrounding these events.
+
+---
+#### Related
+- [Congregation Massacres: A Dark Chapter in The American Genocide (TAG)](/TAG/Congregation-Massacre)
