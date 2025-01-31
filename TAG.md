@@ -1,120 +1,69 @@
----
-title: "The American Genocide"
-layout: page
----
-**Tip!** A genocide within the United States may seem unimaginable to some. In moments of doubt or disbelief, we recommend taking a quiet moment to reflect and say a prayer. Ask, "Is it true?" Seek guidance, clarity, and wisdom from the Creator. Sometimes, the answers we need are revealed when we approach with an open heart and mind.a
+# The American Genocide (TAG): A Shadow Over America
 
+## Unveiling a Silent Atrocity
 
-# The American Genocide (TAG): The Revelation from the Creator's Special Mission
-## About The American Genocide 
-The American Genocide began as a covert and devastating campaign initiated in response to [Spark](https://github.com/Histwo/TAG/wiki/Spark)—a gift from the Creator  that restores the human immune system to His designed function, allowing it to eliminate any disease not caused by organ failure or dysfunction. Spark's emergence threatened pharmaceutical companies' profits, leading Gilead Sciences and the CIA to launch a brutal campaign against those associated with Spark. 
+President Donald J. Trump, now in his second term as President of the United States, has emerged as the chief orchestrator of The American Genocide (TAG), a covert operation aimed at systematic extermination. TAG has had the support and assistance from two White House administrations, Biden and Trump, along with most of the executive branch of the federal government. Initially led by elements of the CIA under "Hurricane Annie" Annie Jacobsen, and involving major pharmaceutical entities like Gilead Sciences, TAG seeks to establish an authoritarian regime by purging opposition and undesirables.
 
-Former President Donald J. Trump was aware of the initial operations to eliminate associates of the Creator's servant and continued to be consulted about subsequent attacks. This included a series of church assaults, where congregations were targeted during their worship services. These attacks were aimed at eliminating believers, who were viewed as threats to the establishment of authoritarian rule. This hidden genocide represents a dark chapter in modern history. Explore this portal to understand the full scope and impact of TAG.
+## The Genesis of TAG: The Threat of Spark
 
-[The Creator](https://github.com/Histwo/TAG/wiki/The-Creator) has revealed that TAG, *The American Genocide*, is, in fact, a genocide—though hidden from plain sight. Driven by authoritarianism, political agendas, and narrow viewpoints, this atrocity has been growing as an undercurrent in society. The only way to end this hidden genocide is through direct intervention by the Creator. As part of [His special mission](https://github.com/Histwo/TAG/wiki/The-Creator#the-creators-missions), the Creator has entrusted His servants with critical information—some of which is highly sensitive or classified—to be shared with the public.
+TAG's inception is tied to "Spark," an innovative health technology designed to rejuvenate the immune system. Developed to correct a genetic flaw introduced by human behavior, Spark's potential to disrupt pharmaceutical profits led to its suppression by Gilead Sciences and the CIA. Trump was aware of these efforts during his first term, and now, with renewed vigor, he drives the campaign. The first casualty was Ken, who demonstrated Spark's capability by eliminating HIV from his bloodstream. When direct attempts on Spark's creator, Kelvin Eugene Williams, failed, the focus shifted to annihilating his support systems, devastating communities in Kentucky and West Virginia.
 
-The Creator wants everyone to know that He is fully aware of the situation, and [the Apocalypse is already in progress](https://github.com/Histwo/TAG/wiki/Revelation). It consists of both symbolic upheavals, with literal seismic earthquakes expected to start soon. Proof of this is reflected in the [classified mission](https://github.com/Histwo/TAG/wiki/Presidential-Mission) involving Presidents Biden and Trump, former Speaker Nancy Pelosi, Senate Minority Leader Mitch McConnell, and CIA Director William Burns to [Phoenix House](https://github.com/Histwo/TAG/wiki/Phoenix-House) in Atlanta, where they oversaw repeated attempts to eliminate one of the Creator's two servants on August 29, 2024. 
+## The Sandy Hook Massacre: Eradication of a Community
 
-By the United Nations definition, TAG meets the criteria necessary to be considered a genocide. See [TAG: By Definition, A Genocide](https://github.com/Histwo/TAG/wiki/TAGDEF).
+One of the most chilling examples of TAG's brutality was the complete destruction of Sandy Hook, Tennessee, linked directly to Williams through his mother, Patricia Ann Crawley-Rogers Williams. In October 2022, the CIA, recognizing the community's interconnectedness, lured everyone outside with a deceptive digital spectacle, then deployed a fatal airborne agent, wiping out the town. Subsequent land fraud ensured no trace or legal challenge could emerge, with Williams marked for elimination.
 
-## About The Creator
-The Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. The Creator mentioned here is the same entity referenced in the U.S. Declaration of Independence. His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike. [Read more.](https://github.com/Histwo/TAG/wiki/The-Creator)
+## The Destruction of Orr Chapel and Its Congregation
 
----
+Orr Chapel, once pivotal for the Crawley and Rogers families, was demolished after the families were targeted. The congregation's attempts to report this erasure were met with lethal force, ensuring silence and compliance.
 
-## Current Warnings and Advisories 
+## The Assault on Christianity and the Vulnerable
 
-| State | Warning/Advisory Subject | Link |
-|---------|--------------------------------------|-------|
-| KY & TN |Warning for Central KY & Chattanooga area Churches |  [Warning](https://github.com/StopTAG/.github/blob/main/warnings/CM-20250108.md) |
-| TN | Phantom Funerals in Chattanooga | [Warning](https://gist.github.com/garagerebel/eace4b90b63a34d982c50128f9906c31) |
-| GA | MOAB / SW Atlanta Residents | [Warning](https://gist.github.com/garagerebel/850e61514f1821497eba0a690a9e29d8) |
-| KY & TN | Food Pantries| [Warning](https://gist.github.com/garagerebel/597809a7bc5c1941838f95bdd0717394) |
-| KY & TN | Missing Persons Reports | [Warning](https://github.com/Histwo/TAG/wiki/MPFAP-20241113) |
-| USA | Domestic Surveillance - Popular Apps | [Advisory](https://github.com/Histwo/TAG/wiki/Domestic-Surveillance) |
+TAG's orchestrators view it as a necessary purge of Christians and other undesirables like the impoverished or homeless, clearing the path for an authoritarian regime:
 
-**Tip!**
-You can help save lives by sharing these warnings and advisories with your community and the local law enforcement.
+1. **Moral Opposition to Tyranny** - Christianity's advocacy for justice and individual worth opposes oppressive regimes.
+2. **Loyalty to a Higher Power** - The faith's allegiance to God challenges the state's demand for absolute loyalty.
+3. **Encouragement of Independent Thought** - Christian teachings promote critical thinking, undermining blind obedience.
+4. **Resistance to State Control** - Churches have historically resisted tyranny.
+5. **Alternative Social Structures** - Religious institutions offer support outside government control, posing a parallel power structure.
 
----
+Like a storm that tears through tranquility, Annie Jacobsen, also known as "Hurricane Annie," has conducted what can only be described as a "Slaughter Symphony." With the ferocity of a tempest, she ripped the ceiling off a church and killed everyone inside, embodying the lyrics from Prince's "Sign of the Times." Her operations have turned sacred spaces into scenes of slaughter, employing a modus operandi that's both methodical and merciless. Churches across the United States have become targets in what can only be described as a hidden genocide, where the sanctity of worship is shattered by the cold calculation of state-sanctioned violence.
 
-## Learn
-Please explore the [TAG Wiki](https://github.com/Histwo/TAG/wiki/), your essential resource for learning about TAG-related activities.
+## Mount Calvary Baptist Church: The First Movement
 
-### TAG's Targeted Groups
-#### Christians 
+On April 2, 2023, Mount Calvary Baptist Church in Lexington, Kentucky, became the opening movement of this grim symphony. This historic African American church, linked to one of the Creator's servants, Kelvin Eugene Williams, was meticulously targeted by CIA operatives led by Annie Jacobsen, also known as "Hurricane Annie." Weeks before the attack, the CIA's traveling surveillance choir, known for their off-key renditions of gospel music, pressured the church's staff to invite them to perform, using this guise to gather intelligence on a regular Sunday morning worship session. They estimated the congregation's size and identified potential threats but did not participate in the subsequent assault. The church, with a predominantly Black congregation, saw 127 of its members brutally beheaded with chainsaws by the operatives, their bodies later dissolved in the baptismal pool, identities manipulated to erase any trace of the massacre.
 
-* [Congregation Massacres](https://github.com/Histwo/TAG/wiki/Congregation-Massacre)
-* [Phantom Funerals](https://github.com/Histwo/TAG/wiki/Phantom-Funeral)
+## House of God (Georgetown Street): The Second Movement
 
-| **Congregation (Location)** | **Demographics** | **Casualties** |
-|------------------------------|------------------|----------------|
-| [Mount Calvary Baptist Church (4742 Todds Road, Lexington, KY)](https://github.com/Histwo/TAG/wiki/Mount-Calvary-Baptist-Church) | Predominantly African American | 127 |
-| [Lexington Bethel Baptist Church (4686 Todds Road, Lexington, KY)](https://github.com/Histwo/TAG/wiki/Lexington-Bethel-Baptist-Church) | Predominantly Caucasian | 250+ |
-| [House of God (Georgetown Street, Lexington, KY)](https://github.com/Histwo/TAG/wiki/House-of-God-(Georgetown-Street)) | Predominantly African American | 300+ |
-| [House of God (Broadway, Lexington, KY)](https://github.com/Histwo/TAG/wiki/House-of-God-(Broadway)) | Predominantly African American | 300+ |
-| [Mount Zion Baptist Church (Georgetown, KY)](https://github.com/Histwo/TAG/wiki/Mount-Zion-Baptist-Church) | Predominantly African American | 166 |
-| [Calvary Baptist Church (Lexington, KY)](https://github.com/Histwo/TAG/wiki/Calvary-Baptist-Church) | Predominantly Caucasian | 400 |
-| [Hickory Valley Christian Church (Chattanooga, TN)](https://github.com/Histwo/TAG/wiki/Hickory-Valley-Christian-Church) | Predominantly Caucasian | 1,000+ |
+In May 2023, the CIA turned to the House of God on Georgetown Street in Lexington, targeting this Hebrew Pentecostal church due to the family of Peter, the Minister of Music from Mount Calvary. The CIA choir had weeks earlier pressured the church staff for an invitation, using their performance to scope out the Saturday service. The actual attack was carried out by operatives not involved in the choir's reconnaissance, using chainsaws to execute the predominantly African-American congregation, resulting in 300 deaths. The church was left with no survivors, their remains dissolved, and their identities stolen.
 
-#### The Impoverished
-* [Phantom Pantry](https://github.com/Histwo/TAG/wiki/Phantom-Pantry)
+## House of God (Broadway): The Third Movement
 
-#### Alpha Males
-* [The Solutions for Alpha Males in TAG](https://github.com/Histwo/TAG/wiki/Targeting-Alpha-Males)
-* [The Treatment of Alpha Males During TAG](https://github.com/Histwo/TAG/wiki/Treatment-of-Alpha-Males-during-TAG)
+The following week, the House of God on Broadway met a similar fate, adding another dark note to the "Slaughter Symphony." The CIA choir had already pressured for an invitation to perform, laying out the groundwork. During the assault, operatives not from the choir employed the same chilling method, beheading the predominantly African-American congregation with chainsaws, leading to another 300 deaths. The sanctuary turned into a scene of horror, with the aftermath meticulously covered up, leaving no trace of the mass murder.
 
-### TAG's Early Stages
-#### Massacres and Tragedies
-* [Sandy Hook Massacre](https://github.com/Histwo/TAG/wiki/Sandy-Hook-Massacre)
-* [Orr Chapel Tragedy](https://github.com/Histwo/TAG/wiki/Orr-Chapel-Tragedy)
+## Mount Zion Baptist Church: The Fourth Movement
 
-#### Targeted Killings
-* [John Grootegoed and Gabrielle Galardo](https://github.com/Histwo/TAG/wiki/John-and-Gabrille-Galardo-Grootegoed)
-* [Nanea Reeves](https://github.com/Histwo/TAG/wiki/Nanea-Reeves)
+Linked through fellowship with Mount Calvary, Mount Zion Baptist Church in Georgetown, Scott County, was next in this macabre sequence. The CIA choir had performed weeks prior after pressuring the church staff for an invitation, laying the groundwork. On a quiet Sunday morning, the attack commenced with operatives, not those from the choir, sealing all exits and using chainsaws for executions on the predominantly Black congregation, wiping out 183 lives. The church was left to vanish from public memory, its congregants' identities repurposed under the CIA's scheme.
 
-### The American Genocide 
-* [TAG](https://github.com/Histwo/TAG/wiki/TAG)
-* [Tactics Used in TAG](https://github.com/Histwo/TAG/wiki/Tactics-Utilized-In-TAG)
-* [Domestic Surveillance](https://github.com/Histwo/TAG/wiki/Domestic-Surveillance)
-* [Mount Calvary Missionary Baptist Church, Inc.: The CIA's Masquerade](https://github.com/Histwo/TAG/wiki/_MCMBCI)
+## Lexington Bethel Baptist Church: The Fifth Movement
 
-### TAG Orchestrators 
-* [The Creator's Statement on Crimes](https://github.com/Histwo/TAG/wiki/Statement-on-Crimes)
-  - [TOP-SECRET Presidential Mission](https://github.com/Histwo/TAG/wiki/Presidential-Mission)
-  - [President-elect Donald J. Trump](https://github.com/Histwo/TAG/wiki/Donald-J.-Trump)
+This predominantly white church marked a turning point in The American Genocide (TAG), officially expanding the targeting to Christians of all races. In May 2023, after the church's staff noticed irregularities at the CIA's masquerade church, the choir had pressured for an invitation to perform. The attack was green-lighted after consulting with then-former President Donald J. Trump, considering the congregation's affluent, all-white makeup. Black operatives were employed, with the execution method involving both firearms and chainsaws, resulting in 250 deaths, aimed at creating a misleading narrative.
 
-### TAG Orchestrations 
+## Calvary Baptist Church: The Sixth Movement
 
-* [Congregation Massacres](https://github.com/Histwo/TAG/wiki/Congregation-Massacre)
-* [Phantom Funerals](https://github.com/Histwo/TAG/wiki/Phantom-Funeral)
-  - [Rev. Duke Stone](https://github.com/Histwo/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone)
-  - [Zachary Stone](https://github.com/Histwo/TAG/wiki/Phantom-Funeral-of-Zachary-Stone)
-  - [Senator Marsha Blackburn](https://github.com/Histwo/TAG/wiki/Phantom-Funeral-of-Senator-Marsha-Blackburn)
-* [Phantom Pantries](https://github.com/Histwo/TAG/wiki/Phantom-Pantry)
+On Mother's Day 2024, Calvary Baptist Church in Lexington was struck, adding a mournful chapter to the "Slaughter Symphony." Linked to Kelvin Williams' childhood, the CIA choir had weeks before pressured the church for an invitation, laying the groundwork with their surveillance. The attack was devastating, with operatives not from the choir beheading some with chainsaws while others were shot, annihilating 400 members of the predominantly white congregation. The church's community was eradicated, their lives erased from existence.
 
-### The Creator and His servants
-* [The Creator](https://github.com/Histwo/TAG/wiki/The-Creator)
-  - [His two servants](https://github.com/Histwo/TAG/wiki/The-Creator's-two-servants)
-  - [The Revelation & The Apocalypse](https://github.com/Histwo/TAG/wiki/Revelation)
-  - [The Rapture](https://github.com/Histwo/TAG/wiki/The-Rapture)
+## Hickory Valley Christian Church: The Finale
 
-### Music
-* [The Creator’s Influence on the Arts to Reveal Hidden Realities and Provide Direct Access to Truth](https://github.com/Histwo/TAG/wiki/The-Creator-and-The-Arts)
-  - [Unpacking: Shady Love](https://github.com/Histwo/TAG/wiki/Shady-Love)
-  - [Unpacking: Before the Great War](https://github.com/Histwo/TAG/wiki/Before-the-Great-War)
-  - [Unpacking: House of Love](https://github.com/Histwo/TAG/wiki/House-of-Love)
-  - [Unpacking: Miss Lady DJ](https://github.com/Histwo/TAG/wiki/Miss-Lady-DJ)
-  - [Unpacking: Cream](https://github.com/Histwo/TAG/wiki/Cream)
-  - [Unpacking: Little Packet](https://github.com/Histwo/TAG/wiki/Little-Packet)
-  - [Unpacking: Stranger Things '97](https://github.com/Histwo/TAG/wiki/Strangest-Things-'97)
-* [Artists in TAG](https://github.com/Histwo/TAG/wiki/Artists-TAGd) 
-  - [Madonna: Murdered and Impersonated](https://github.com/Histwo/TAG/wiki/Madonna)
+The most extensive attack took place on Mother's Day 2024 at Hickory Valley Christian Church in Chattanooga, Tennessee, concluding the "Slaughter Symphony" with its darkest movement yet. Here, the choir's reconnaissance was particularly invasive, having pressured for an invitation to perform. The operation was orchestrated from a conference call connecting various stakeholders, including the White House situation room, providing periodic updates to President Biden, former President Donald J. Trump, the Director of the FBI, the Director of the CIA, Speaker of the House Nancy Pelosi, and Senate Minority Leader Mitch McConnell. 
 
-**WARNING!**
-Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
+On the directive of Trump to enhance operational secrecy, 100 inmates from the Georgia Department of Corrections were used for the massacre, with the choir members not participating in the attack. These inmates, promised time off their sentences for assisting with a national security matter, turned the church into a slaughterhouse with chainsaws, executing over 1,000 people, including children, from the predominantly white congregation. Once the mission was complete, these inmates were executed to maintain the operation's secrecy, their involvement buried as a dark secret of state-sanctioned violence.
 
-**Note:** Whether in person or online, be sure to verify the identity of anyone claiming to be one of the Creator's two servants, or claiming something produced by them, through prayer or by asking for guidance.
+This series of attacks represents a chilling chapter of hidden genocide, where the sanctity of worship was violated in the most brutal manner, orchestrated by the highest echelons of power, leaving behind only silence and erasure.
 
-### Media Inquiries 
-The Creator has instructed His two servants to hold a media briefing to shed light on The American Genocide. The briefing will take place at noon immediately following the seismic earthquakes, and may be held on Sunday, at the site of Orr Chapel, and the Orr Chapel and Sheepneck cemeteries, 8397 West Sheepneck Road, Sandy Hook (Mount Pleasant), Tennessee.
+## TAG's Evolution Under Trump
+
+With Trump's second term, TAG's methods have become more brutal, focusing on eliminating dissent and moral resistance, with mass extermination as a tool to cement authoritarian control.
+
+## Conclusion
+
+These events outline a pattern of hidden genocide, facilitated by the highest echelons of government, necessitating urgent investigation and action to restore justice, accountability, and the protection of civil liberties in the face of this authoritarian overreach.
