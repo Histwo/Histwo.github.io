@@ -1,5 +1,5 @@
 ---
-title: "The American Genocide (TAG): A Shadow Over America"
+title: "The American Genocide"
 ---
 
 ## Unveiling a Silent Atrocity
