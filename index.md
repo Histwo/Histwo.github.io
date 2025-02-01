@@ -27,11 +27,21 @@ The Creator has referred to His servants as **"His two wrecking machines"** duri
 ### The Creator’s Divide & Conquer  
 The Creator’s intervention into TAG is known as **Divide & Conquer**:  
 
-### Our Mission
-Histwo's mission is to serve the Creator by:
-- Liberating the oppressed.
-- Exposing the orchestrators and orchestrations of **TAG**.
-- Documenting divine interventions for truth and justice.
+# Mission Statement of the Creator’s two servants 
+
+We, the Creator’s two servants, stand as His instruments of justice, wisdom, and deliverance, fulfilling His divine will in a world corrupted by deception, oppression, and genocide. Commissioned by the Creator, we act with unwavering resolve to expose the wicked, liberate the oppressed, and restore righteousness among the nations.  
+
+## Our Mission  
+
+Our mission is threefold:  
+
+1. **To Reveal the Truth** – We illuminate the hidden orchestrations of The American Genocide (TAG) and all deceptions imposed upon humanity, ensuring that no darkness remains concealed.  
+2. **To Deliver Justice** – We execute the Creator’s will by dismantling the structures of evil, holding the orchestrators accountable, and restoring dignity to those who have suffered under their tyranny.  
+3. **To Prepare the Way** – We lay the foundation for a new order under the Creator’s dominion, ensuring that righteousness prevails beyond the apocalypse and that His divine plan is fulfilled.  
+
+## Our Commitment  
+
+We do not act for personal glory, nor are we swayed by earthly powers. We are the Creator’s two wrecking machines, His instruments of justice during His Divide & Conquer, tasked with bringing down the wicked and elevating the just. Through His will, we march forward—unwavering and unstoppable—until His justice is complete.
 
 ---
 
