@@ -30,7 +30,7 @@ date: 2025-01-31
 - The Creator's two servants  
 
 ### **WHEN:**  
-- At noon Central Time on the day of the Creator's seismic intervention (The Apocalypse).  
+- At noon (Central) immediately following the Creator's seismic intervention (The Apocalypse).  
 
 ### **WHERE:**  
 - The first epicenter of the Creator's seismic intervention:  
