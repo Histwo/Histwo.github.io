@@ -25,7 +25,7 @@ The Creator has referred to His servants as **"His two wrecking machines"** duri
 - **[Phantom Funerals](/TAG/Phantom-Funeral/)**: Mass-executions of the faithful and associates of former victims of TAG disguised as funerals.
 - **[Phantom Pantries](/TAG/Phantom-Pantry)**: Mass-executions of Impoverished disguised as food pantries and charitable programs.
 
-## Mission Statement of the Creator’s two servants 
+## Our Mission Statement
 We, the Creator’s two servants, stand as His instruments of justice, wisdom, and deliverance, fulfilling His divine will in a world corrupted by deception, oppression, and genocide. Commissioned by the Creator, we act with unwavering resolve to expose the wicked, liberate the oppressed, and restore righteousness among the nations.  
 
 ### Our Mission  
