@@ -1,9 +1,8 @@
 ---
-title: Histwo
+title: Welcome
 list_title: "News and Updates"
 layout: home
 ---
-# Welcome to Histwo
 **Histwo.github.io** is the current official website of the Creator's two servants. This platform is dedicated to documenting and executing divine interventions, restoring balance, and addressing injustices, including **The American Genocide (TAG)**.
 
 ## Who Is the Creator?  
