@@ -1,6 +1,7 @@
 ---
 title: "Top-Secret Presidential Mission to Phoenix House"
 date: 2024-08-29
+permalink: /TAG/TSPM
 ---
 
 *Note: The classified or closely-held information contained within this report was provided by the Creator to His servant as part of His direct intervention in TAG for dissemination to the general public in an effort to save lives.*
