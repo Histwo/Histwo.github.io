@@ -1,5 +1,6 @@
 ---
 title: Histwo
+list_title: "News and Updates"
 layout: home
 ---
 # Welcome to Histwo
@@ -34,16 +35,6 @@ Histwo's mission is to serve the Creator by:
 
 ---
 
-## Explore Our Repositories 
-### [The American Genocide Repository](https://github.com/Histwo/the_american_genocide)
-A comprehensive resource documenting the origins, orchestrations, and interventions surrounding **The American Genocide (TAG)**.
-
-### [Divide & Conquer Repository](https://github.com/Histwo/divide_and_conquer)
-Focusing on the Creator's intervention to separate oppression from justice and restore humanity's balance.
-
-### [Unpacking the Lyrics Repository](https://github.com/Histwo/unpacking_the_lyrics)
-Insightful analysis of secular music lyrics inspired by the Creator, highlighting hidden messages and connections to TAG.
-
 > *“The Creator’s will cannot be thwarted. Justice will prevail.”*  
 
-## News and Updates
+Visit [Histwo](https://github.com/Histwo) on GitHub 
