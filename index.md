@@ -15,7 +15,7 @@ The name **"Histwo"** is a compound word formed by combining **"His two"**, with
 
 The intentional omission of the word **"servants"** makes the name open-ended, allowing the Creator to repurpose His servants for various roles as instruments of His will. **Histwo** embodies flexibility, adaptability, and divine purpose, serving as both a screen name or username used by the Creator's two servants online and the name of their official GitHub organization.  
 
-The Creator has referred to His servants as **"His two wrecking machines"** during His **["Divide & Conquer"](DC.md)** operation, which is His intervention to stop The American Genocide. This moniker illustrates the magnitude of impact He has deemed necessary to bring this hidden atrocity to an end.
+The Creator has referred to His two servants as **"His two wrecking machines"** during His **["Divide & Conquer"](DC.md)** operation, which is His intervention to stop The American Genocide. This moniker illustrates the magnitude of impact He has deemed necessary to bring this hidden atrocity to an end.
 
 ## Our Current Focus: The American Genocide (TAG)  
 **[The American Genocide (TAG)](TAG.md)** is an ongoing hidden atrocity, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.
