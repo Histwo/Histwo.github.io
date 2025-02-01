@@ -1,8 +1,7 @@
 ---
-title: "MEDIA ADVISORY (January 31, 2025)"
+title: "Media Advisory for the Creator's Divide & Conquer"
 date: 2025-01-31
 ---
-
 **FOR IMMEDIATE RELEASE**  
 
 ## Divide & Conquer Media Briefing 
