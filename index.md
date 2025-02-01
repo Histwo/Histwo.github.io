@@ -9,6 +9,8 @@ layout: home
 ## Who Is the Creator?  
 The Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. We, His two servants, neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike.
 
+Learn more about [the Creator and His two servants](About-Us.md).
+
 ## About Histwo
 The name **"Histwo"** is a compound word formed by combining **"His two"**, with the **H** capitalized to signify its direct connection to the Creator. Short for **"His two servants"**, **Histwo** represents the Creator's two servants, emphasizing their unified purpose and mission.  
 
