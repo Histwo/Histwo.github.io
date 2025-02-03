@@ -47,6 +47,14 @@ In a broader moral or philosophical context, righteousness can be seen as the pu
 
 ---
 
+## What We're Listening To
+[MGITTTYS - Apple Music Playlist](https://music.apple.com/us/playlist/mgitttys/pl.u-RRbVvlWTm2zqqlE?ls)
+---
+
 > *“The Creator’s will cannot be thwarted. Justice will prevail.”*  
 
 Visit [Histwo](https://github.com/Histwo) on GitHub 
+
+
+----
+[apple](https://music.apple.com/us/playlist/mgitttys/pl.u-RRbVvlWTm2zqqlE?ls)
