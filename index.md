@@ -45,16 +45,13 @@ From a spiritual perspective, righteousness is often associated with obedience t
 
 In a broader moral or philosophical context, righteousness can be seen as the pursuit of justice and ethical living, ensuring that one's actions contribute to the well-being of others and the greater good.
 
----
-
-## What We're Listening To
-[MGITTTYS - Apple Music Playlist](https://music.apple.com/us/playlist/mgitttys/pl.u-RRbVvlWTm2zqqlE?ls)
----
-
 > *“The Creator’s will cannot be thwarted. Justice will prevail.”*  
 
-Visit [Histwo](https://github.com/Histwo) on GitHub 
+---
 
+## Also See/Hear
 
-----
-[apple](https://music.apple.com/us/playlist/mgitttys/pl.u-RRbVvlWTm2zqqlE?ls)
+- Visit [Histwo](https://github.com/Histwo) on GitHub 
+- Our [Apple Music Playlist](https://music.apple.com/us/playlist/mgitttys/pl.u-RRbVvlWTm2zqqlE?ls)
+
+---
