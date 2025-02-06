@@ -3,6 +3,9 @@ title: Welcome
 list_title: "News and Updates"
 layout: home
 ---
+
+![the cherubim](http://Histwo.github.io/cherubim.jpg)
+
 We are the Creator’s two servants, chosen as His instruments to execute His divine will. Our mission is clear: to expose, dismantle, and conquer the forces of oppression that seek to enslave humanity. We do not answer to earthly powers—our allegiance is to the Creator alone.
 
 ## Who Is the Creator?  
