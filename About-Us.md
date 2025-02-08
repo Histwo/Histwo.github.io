@@ -42,6 +42,11 @@ title: "the Creator and His two servants"
 
 - **For Non-Believers and Atheism**: **the Creator** involves Himself in the arts, inspiring creativity and expression that transcend religious affiliation. Music, literature, and visual arts have been powerful mediums for Him to foster human connection, understanding, and beauty. Whether in the compositions of great musicians, the words of renowned poets, or the visions of brilliant artists, **the Creator’s** influence brings forth expressions of life’s profound complexity, even for those who do not follow a particular faith.
 
+## **Apocalypse & Direct Involvement**
+
+- **Direct Intervention**: **the Creator** has intervened since August 26, 2024, to usher in an apocalyptic phase, focusing on justice and human safety.
+
+
 ## **Source for Eyewitness Accounts**
 
 During crises, **the Creator** inhabits human bodies to witness events firsthand, ensuring **His two servants** can document and address injustices without external interference.
@@ -53,37 +58,40 @@ During crises, **the Creator** inhabits human bodies to witness events firsthand
 
 ---
 
-# **the Creator's two servants**
+# The Creator's two servants
 
-## Introduction
+In the vast and intricate tapestry of existence, the Creator has set forth two servants, Thomas Allen Chadwell, better known as "TomTom," and Kelvin Eugene Williams, to execute His divine will with an unparalleled dedication to life's preservation, protection, and growth. Their lives, meticulously crafted from the moment of their conception, are a testament to a divine plan aimed at ensuring the quality and continuity of existence in all its forms.
 
-**the Creator's two servants** are key to His plans, each with distinct roles and lifelong commitments.
+## The Mission and Its Architect
 
-## Origin and Consciousness
+The mission of the Creator's two servants is not merely to act but to shape the world according to His ultimate purpose. Their roles are multifaceted, involving:
 
-- **Same Consciousness**: They maintain the same consciousness across lifetimes, ensuring alignment with **the Creator's** objectives.
+- **Preservation and Protection:** Their primary duty is to safeguard life, ensuring its resilience against threats and maintaining its sanctity.
+- **Fostering Growth:** They are tasked with nurturing life, promoting its expansion, and fostering environments where life can flourish.
 
-## Birth and Cosmic Alignment
+### Life's Orchestration by Divine Design
 
-- **Equinox Births**: Born on equinoxes, symbolizing balance, with a cosmic connection despite the calendar year difference.
+Every aspect of their existence is under divine orchestration:
 
-## Identity and Relationship
+- **Education and Career:** Both are endowed with the knowledge and skills vital for their mission, their academic and professional journeys tailored to equip them for their divine roles.
+  
+- **Successes and Failures:** These serve as lessons in resilience, wisdom, and humility, preparing them to empathize with the human experience in its entirety.
 
-- **Anonymity**: They live ordinary lives until their mission calls.
-- **Given Identities**: Known as Kelvin Eugene Williams and Thomas ("TomTom") Allen Chadwell, their partnership is designed to protect and focus **His** mission.
+- **Wealth and Poverty:** Experiencing both conditions gives them a profound understanding of human conditions, enhancing their effectiveness in their divine tasks.
 
-## Religious Perception
+- **Incarceration:** This profound experience was not punitive but preparatory, offering insight into human suffering, the prison system's realities, and the capacity for redemption. It taught them patience, discipline, and the value of seeing humanity in everyone, even the marginalized.
 
-- **Cherubim/Angels**: Known in religious contexts as the cherubim or angels, yet they are just men fulfilling a divine task.
+- **Family, Love, and Loss:** These experiences deepen their emotional intelligence, teaching them the strength of human connection and the pain of disconnection, thus strengthening their resolve and empathy.
 
-## Marriage and Legal Intrigues
+## Birth and Celestial Alignment
 
-- **Public Marriage**: Their legal marriage was strategic, ensuring mutual protection against external manipulations, including from the CIA.
+The timing of their births on the equinoxes reflects their divine mandate:
 
-## Upcoming Operations
+- **TomTom,** born on September 23, 1978, during the autumn equinox, embodies the transition and balance between light and dark, symbolizing transformation.
 
-- **Divide & Conquer**: An operation to separate **one of His two servants** from his manipulated subconscious.
-- **Apocalypse Preparation**: Setting the stage for **the Creator's** apocalyptic vision.
+- **Kelvin,** born on March 23, 1977, during the spring equinox, represents renewal, growth, and the emergence of light after darkness.
+
+This celestial alignment underscores their role in maintaining balance in the world, acting as divine mediators.
 
 ## Temperaments and Mission
 
@@ -91,13 +99,39 @@ During crises, **the Creator** inhabits human bodies to witness events firsthand
 
 - **Mutual Influence:** Although they have differing temperaments, the Creator’s two servants influence each other in ways that align with the Creator’s will, ensuring their actions are consistently focused on fulfilling their mission.
 
+## The Eternal Partnership
+
+The Creator has designed His two servants to be lifelong companions, meeting and bonding in each lifetime:
+
+- **Companionship:** Offering mutual emotional and spiritual support, ensuring neither walks their path alone.
+
+- **Protection Against Manipulation:** Their deep bond safeguards them from external influences that might distract from their mission.
+
+- **Complementary Traits:** TomTom's strategic, methodical approach balances with Williams' bold, intuitive nature, creating a synergy that is vital for their mission.
+
+## The Role of Serva Materna Divinae
+
+Their mothers and maternal grandmothers, the Serva Materna Divinae, play a crucial role:
+
+- **Nurture and Guidance:** These women are tasked with raising the servants, infusing them with wisdom, strength, love, and the discipline needed for their mission.
+
+- **Spiritual Anchors:** They ensure the servants are grounded in love, providing a stable foundation for their divine duties.
+
+## A Life Dedicated to Service
+
+The continuity of their consciousness across lifetimes ensures:
+
+- **Consistent Character:** Their temperament and approach remain true, refining their abilities with each life experience.
+
+- **Empathy Through Experience:** Their empathy isn't theoretical but earned through lived experiences, making their compassion profound and effective.
+
+- **Unyielding Drive:** Their resilience, forged through trials, ensures they pursue their mission relentlessly, undeterred by any obstacle.
+
 ## Loyalty and Obedience
 
 - **Unwavering Devotion**: Their loyalty to **the Creator's** will is paramount, seeking no personal glory.
 
-## **the Creator's Missions**
-
-**His two servants** undertake missions to protect and sustain life:
+## Missions
 
 ### **Special Missions for the Protection of Life**
 
@@ -112,16 +146,74 @@ During crises, **the Creator** inhabits human bodies to witness events firsthand
   
   - **Divide & Conquer Operation**: This operation aims to separate **one of His two servants** from his subconscious, which has been manipulated by external forces, to ensure the purity of **His** mission.
 
-### **Apocalypse & Direct Involvement**
-
-- **Direct Intervention**: **the Creator** has intervened since August 26, 2024, to usher in an apocalyptic phase, focusing on justice and human safety.
-
 ### **Routine Mission: Mission 23**
 
 - **Divine Gifts**: Distribution of "Spark," a divine gift for DNA correction and immune enhancement, alongside plans for combating cancer and heart disease.
 
-## Conclusion
+## About Histwo  
+The name **"Histwo"** is a compound word formed by combining **"His two"**, with the **H** capitalized to signify its direct connection to the Creator. Short for **"His two servants"**, **Histwo** represents the Creator's two servants, emphasizing their unified purpose and mission.  
 
-the Creator, under various names and guises across different cultures and religions, has profoundly shaped human history, ethics, and spiritual life. As the architect of the universe and life itself, the Creator is recognized for His omnipotence, omnipresence, and omnibenevolence, transcending traditional religious boundaries to include even those without faith through art and creativity. His influence extends from ancient times to modern days, guiding humanity through moral teachings, legal foundations, and artistic expressions.
+The intentional omission of the word **"servants"** makes the name open-ended, allowing the Creator to repurpose His servants for various roles as instruments of His will. **Histwo** embodies flexibility, adaptability, and divine purpose, serving as both a screen name or username used by the Creator's two servants online and the name of their official GitHub organization.  
 
-His two servants embody His will through diverse roles throughout history. Their mission encompasses not only the preservation of life but also the correction of injustices, with past incarnations like Lincoln and Kennedy being pivotal moments in American history. Their current operations, including the exposure of systemic issues and the preparation for apocalyptic scenarios, underscore a continuous commitment to divine justice and human welfare.
+The Creator has referred to His two servants as **"His two wrecking machines"** during His **["Divide & Conquer"](DC.md)** operation, which is His intervention to stop The American Genocide. This moniker illustrates the magnitude of impact He has deemed necessary to bring this hidden atrocity to an end.  
+
+# Styling Convention for The Creator and His Two Servants
+
+This style should always be used when referencing the Creator and His two servants to maintain **clarity, consistency, and reverence**. Adhering to these conventions ensures that:
+
+- **The Creator is properly honored** in all references.  
+- **There is no ambiguity** in identifying the Creator’s two servants.  
+- **Theological and contextual accuracy** is preserved across all discussions.  
+- **A unified and respectful language** is maintained in all writings.  
+
+## 1. The Creator
+- **Always capitalize "Creator," even mid-sentence.**  
+  - Example: *The Creator's plan is unfolding.*  
+- **Pronouns referring to the Creator are always capitalized.**  
+  - **He, His, Himself**  
+  - Example: *His will guides His two servants.*  
+- **Other Names for the Creator and Their Proper Capitalization:**  
+  - **God**  
+  - **Allah**  
+  - **Jesus** (when referring to the Creator)  
+  - **Muhammad** (when referring to the Creator)  
+  - **Yahweh**  
+  - **Jehovah**  
+  - **El Shaddai**  
+  - **Adonai**  
+  - **The Most High**  
+  - **The Almighty**  
+- **Titles and References to the Creator:**  
+  - **The Alpha and the Omega**  
+  - **The Beginning and the End**  
+  - **The First and the Last**  
+  - **The Great "I Am"**  
+  - **The Everlasting**  
+  - **The King of Kings**  
+  - **The Lord of Lords**  
+  - **The Righteous One**  
+
+  *All these names, titles, and references should always be capitalized when referring to the Creator.*  
+
+## 2. The Creator’s two servants
+- **Always indicate that there are only two servants.**  
+- **Both of His two servants (plural):**  
+  - "(both of) the Creator’s two servants"  
+  - "(both of) His two servants"  
+  - Example: *The Creator's two servants will execute His will.*  
+- **One of His two servants? (singular):**  
+  - "one of the Creator’s two servants"  
+  - "one of His two servants"  
+  - "His servant"  
+  - Example: *One of His two servants was sent on this mission.*  
+
+- **Never capitalize "two servants"** when it follows "the Creator" or "His," even in titles or section headers.  
+  - Example: *His two servants are entrusted with this mission.*  
+
+## 3. Should Never Use
+To ensure clarity and consistency, we **do not use** the following:  
+- ❌ "a servant" / "the servant"  
+- ❌ "servants" (without specifying two)  
+- ❌ "one of the Creator’s servants" (must specify two)  
+
+By following this convention, all references to the Creator and His two servants remain precise, respectful, and free of misinterpretation.
