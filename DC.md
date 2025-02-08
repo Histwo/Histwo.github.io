@@ -66,4 +66,4 @@ The Divide & Conquer operation represents the Creator's ultimate intervention in
 
 #### Also See:
 - [The Classic Split: Understanding a Subconscious Mind’s Journey to Independence and Its Impact on Its Shared Life](https://github.com/Histwo/divide_and_conquer/wiki/Classic-Split)
-- [Divide & Conquer](https://github.com/Histwo/divide_and_conquer/wiki/Divide-&-Conquer)
+- [Inside Divide & Conquer: The Creator's Apocalypse](https://github.com/Histwo/divide_and_conquer/wiki/Divide-&-Conquer)
