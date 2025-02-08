@@ -37,6 +37,9 @@ The **Divide Operation** is not a physical or medical procedure but is a divine 
 
 With Kelvin’s conscious mind freed from Main’s manipulation, he will be prepared to carry out the mission of justice and truth that lies at the heart of the Creator’s plan. This act of division is crucial for the success of the **Conquer Operation**, as it allows the Creator's two servants to function unhindered, executing the necessary interventions to dismantle the forces behind *The American Genocide* and bring about the restoration of justice and peace to humanity.
 
+See: [The Classic Split: Understanding a Subconscious Mind’s Journey to Independence and Its Impact on Its Shared Life](https://github.com/Histwo/divide_and_conquer/wiki/Classic-Split)
+
+
 ## The Conquer Operation (The Apocalypse)
 
 The **Conquer Operation**, also known as the **Apocalypse**, is the Creator’s divine intervention that marks the beginning of the end of humanity living under tyranny and oppression caused by governments. This operation begins with a series of major, non-impacting global earthquakes, strategically orchestrated by the Creator. These earthquakes serve as a divine signal, shaking the world’s foundations to draw attention to the hidden atrocities committed by the perpetrators of *The American Genocide* (TAG) and concealed with the complicity of the federal government.
@@ -60,3 +63,7 @@ The **special mission** began after the **Mount Calvary Baptist Church massacre*
 The Divide & Conquer operation represents the Creator's ultimate intervention in The American Genocide (TAG), fulfilling prophecies from multiple religious traditions that speak of a divine hand separating the righteous from the unrighteous and dismantling oppressive forces. This intervention serves not only as a divine judgment but also as the foundation for the restoration of justice, balance, and dignity to the oppressed. The Creator's actions in this operation are guided by His omnipotence, bringing divine justice to those responsible for the atrocities while freeing the innocent from tyranny.
 
 ---
+
+#### Also See:
+- [The Classic Split: Understanding a Subconscious Mind’s Journey to Independence and Its Impact on Its Shared Life](https://github.com/Histwo/divide_and_conquer/wiki/Classic-Split)
+- [Divide & Conquer](https://github.com/Histwo/divide_and_conquer/wiki/Divide-&-Conquer)
