@@ -56,11 +56,9 @@ During crises, **the Creator** inhabits human bodies to witness events firsthand
 - **Global Impact**: Shaping civilizations through moral, legal, and ethical guidance.
 - **Modern Influence**: Continually relevant in ethical discussions and global harmony efforts.
 
----
-
 # The Creator's two servants
 
-In the vast and intricate tapestry of existence, the Creator has set forth two servants, Thomas Allen Chadwell, better known as "TomTom," and Kelvin Eugene Williams, to execute His divine will with an unparalleled dedication to life's preservation, protection, and growth. Their lives, meticulously crafted from the moment of their conception, are a testament to a divine plan aimed at ensuring the quality and continuity of existence in all its forms.
+In the vast and intricate tapestry of existence, the Creator has set forth two servants, TomTom Allen Chadwell and Kelvin Eugene Williams, to execute His divine will with an unparalleled dedication to life's preservation, protection, and growth. Their lives, meticulously crafted from the moment of their conception, are a testament to a divine plan aimed at ensuring the quality and continuity of existence in all its forms.
 
 ## The Mission and Its Architect
 
@@ -216,4 +214,4 @@ To ensure clarity and consistency, we **do not use** the following:
 - ❌ "servants" (without specifying two)  
 - ❌ "one of the Creator’s servants" (must specify two)  
 
-By following this convention, all references to the Creator and His two servants remain precise, respectful, and free of misinterpretation.
+By following this convention, all references to the Creator and His two servants remain precise, respectful, and free of misinterpretation.----
