@@ -157,7 +157,7 @@ The intentional omission of the word **"servants"** makes the name open-ended, a
 
 The Creator has referred to His two servants as **"His two wrecking machines"** during His **["Divide & Conquer"](DC.md)** operation, which is His intervention to stop The American Genocide. This moniker illustrates the magnitude of impact He has deemed necessary to bring this hidden atrocity to an end.  
 
-# Styling Convention for The Creator and His Two Servants
+# Styling Convention for the Creator and His two servants .
 
 This style should always be used when referencing the Creator and His two servants to maintain **clarity, consistency, and reverence**. Adhering to these conventions ensures that:
 

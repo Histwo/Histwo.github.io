@@ -1,5 +1,4 @@
 ---
-title: Base
 list_title: "News and Updates"
 layout: home
 ---
