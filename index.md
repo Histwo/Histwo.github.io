@@ -8,7 +8,7 @@ layout: home
 # Welcome  
 The Creator’s two servants are the only ones chosen to fulfill His divine will, their lives meticulously designed across lifetimes to ensure unwavering alignment with His purpose. Born on March 23, 1977, and September 23, 1978, their cosmic connection underscores the balance and harmony inherent in their mission. Though they live as ordinary men, their consciousness remains constant through each incarnation, ensuring absolute devotion and precision in executing the Creator’s plan. Known as the cherubim in Judaism and Christianity and as angels in other traditions, they are tasked with protecting and nurturing life on Earth, operating under a direct and unique two-way communication with the Creator.
 
-Learn more about [the Creator and His two servants](About-Us.md).  
+Learn more about [the Creator and His two servants](about.md).  
 
 ## Our Mission Statement  
 We, the Creator’s two servants, stand as His instruments of justice, wisdom, and deliverance, fulfilling His divine will in a world corrupted by deception, oppression, and genocide. Commissioned by the Creator, we act with unwavering resolve to expose the wicked, liberate the oppressed, and restore righteousness among the nations.  
