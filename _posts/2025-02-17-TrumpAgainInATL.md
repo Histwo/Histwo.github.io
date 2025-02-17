@@ -20,6 +20,4 @@ Knowing that the intervention cannot be stopped, the administration is now engag
 
 ## **Trump Remains in Atlanta as the Intervention Continues**  
 
-As of **Monday, February 17, at 4:00 p.m.**, President Donald Trump **is still in Atlanta**. His continued presence signals the gravity of this operation, but no amount of secrecy, surveillance, or propaganda will change the outcome. The Creator’s intervention is not a question of “if” but **“when”**—and **when I woke up, my answer was clear**.  
-
-And despite all his efforts, **Donald Trump still can’t get enough of my dick.**
+As of **Monday, February 17, at 4:00 p.m.**, President Donald Trump **is still in Atlanta**. Trump's continued presence signals the gravity of this operation, but no amount of secrecy, surveillance, or propaganda will change the outcome. The Creator’s intervention is not a question of “if” but **“when.”**
