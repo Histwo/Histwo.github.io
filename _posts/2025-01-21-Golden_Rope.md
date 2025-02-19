@@ -1,6 +1,7 @@
 ---
 title: "President Trump's Golden Rope (a Virtual Prison)"
 date: 2025-01-21
+permalink: /GoldenRope
 ---
 
 The "Golden Rope" is a covert and extreme solution conceptualized by President Donald J. Trump during *The American Genocide* (TAG). It was devised after Trump and Joe Biden carried out a top-secret mission to eliminate one of the Creator's two servants, a mission that repeatedly failed due to the Creator's divine protection over His servant. Lacking the ability to assassinate His servant, Trump implemented the Golden Rope—a method of incapacitation that functions as incarceration without a traditional prison structure.
