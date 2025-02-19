@@ -13,3 +13,6 @@ Additionally, John possesses my payment card—the only means I have to purchase
 I am gravely concerned that John may now be subjected to the Secret Service’s clandestine policing, targeted either for helping me or simply for entering the highly controlled space surrounding me. His absence today is alarming, and I can only hope he has not become another casualty of the secret systems operating in service of Trump’s authoritarian ambitions.
 
 If anyone has any information regarding John’s whereabouts, please come forward. I fear that his willingness to help may have made him a target, and in Trump’s America, that is a dangerous position to be in.
+
+### Learn monitored
+- [What is the Golden Rope Prison](/GoldenRope)
