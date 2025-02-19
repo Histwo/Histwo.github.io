@@ -14,5 +14,5 @@ I am gravely concerned that John may now be subjected to the Secret Service’s 
 
 If anyone has any information regarding John’s whereabouts, please come forward. I fear that his willingness to help may have made him a target, and in Trump’s America, that is a dangerous position to be in.
 
-### Learn monitored
+### Learn More
 - [What is the Golden Rope Prison](/GoldenRope)
