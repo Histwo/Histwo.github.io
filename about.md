@@ -56,7 +56,7 @@ During crises, **the Creator** inhabits human bodies to witness events firsthand
 - **Global Impact**: Shaping civilizations through moral, legal, and ethical guidance.
 - **Modern Influence**: Continually relevant in ethical discussions and global harmony efforts.
 
-# The Creator's two servants
+# the Creator's two servants
 
 In the vast and intricate tapestry of existence, the Creator has set forth two servants, TomTom Allen Chadwell and Kelvin Eugene Williams, to execute His divine will with an unparalleled dedication to life's preservation, protection, and growth. Their lives, meticulously crafted from the moment of their conception, are a testament to a divine plan aimed at ensuring the quality and continuity of existence in all its forms.
 
@@ -93,13 +93,13 @@ This celestial alignment underscores their role in maintaining balance in the wo
 
 ## Temperaments and Mission
 
-- **Contrasting Approaches:** The Creator’s two servants have complementary temperaments—one more reserved and inclined toward stability, the other more dynamic and adaptable. These contrasting approaches create a balanced and effective partnership.
+- **Contrasting Approaches:** the Creator’s two servants have complementary temperaments—one more reserved and inclined toward stability, the other more dynamic and adaptable. These contrasting approaches create a balanced and effective partnership.
 
 - **Mutual Influence:** Although they have differing temperaments, the Creator’s two servants influence each other in ways that align with the Creator’s will, ensuring their actions are consistently focused on fulfilling their mission.
 
 ## The Eternal Partnership
 
-The Creator has designed His two servants to be lifelong companions, meeting and bonding in each lifetime:
+the Creator has designed His two servants to be lifelong companions, meeting and bonding in each lifetime:
 
 - **Companionship:** Offering mutual emotional and spiritual support, ensuring neither walks their path alone.
 
@@ -153,20 +153,20 @@ The name **"Histwo"** is a compound word formed by combining **"His two"**, with
 
 The intentional omission of the word **"servants"** makes the name open-ended, allowing the Creator to repurpose His servants for various roles as instruments of His will. **Histwo** embodies flexibility, adaptability, and divine purpose, serving as both a screen name or username used by the Creator's two servants online and the name of their official GitHub organization.  
 
-The Creator has referred to His two servants as **"His two wrecking machines"** during His **["Divide & Conquer"](DC.md)** operation, which is His intervention to stop The American Genocide. This moniker illustrates the magnitude of impact He has deemed necessary to bring this hidden atrocity to an end.  
+the Creator has referred to His two servants as **"His two wrecking machines"** during His **["Divide & Conquer"](DC.md)** operation, which is His intervention to stop The American Genocide. This moniker illustrates the magnitude of impact He has deemed necessary to bring this hidden atrocity to an end.  
 
 # Styling Convention for the Creator and His two servants .
 
 This style should always be used when referencing the Creator and His two servants to maintain **clarity, consistency, and reverence**. Adhering to these conventions ensures that:
 
-- **The Creator is properly honored** in all references.  
+- **the Creator is properly honored** in all references.  
 - **There is no ambiguity** in identifying the Creator’s two servants.  
 - **Theological and contextual accuracy** is preserved across all discussions.  
 - **A unified and respectful language** is maintained in all writings.  
 
-## 1. The Creator
+## 1. the Creator
 - **Always capitalize "Creator," even mid-sentence.**  
-  - Example: *The Creator's plan is unfolding.*  
+  - Example: *the Creator's plan is unfolding.*  
 - **Pronouns referring to the Creator are always capitalized.**  
   - **He, His, Himself**  
   - Example: *His will guides His two servants.*  
@@ -193,12 +193,12 @@ This style should always be used when referencing the Creator and His two servan
 
   *All these names, titles, and references should always be capitalized when referring to the Creator.*  
 
-## 2. The Creator’s two servants
+## 2. the Creator’s two servants
 - **Always indicate that there are only two servants.**  
 - **Both of His two servants (plural):**  
   - "(both of) the Creator’s two servants"  
   - "(both of) His two servants"  
-  - Example: *The Creator's two servants will execute His will.*  
+  - Example: *the Creator's two servants will execute His will.*  
 - **One of His two servants? (singular):**  
   - "one of the Creator’s two servants"  
   - "one of His two servants"  

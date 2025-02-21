@@ -30,7 +30,7 @@ The detonation is scheduled to occur overnight immediately following seismic act
 ## When:
 The detonation is scheduled to occur **overnight**, immediately following the earthquake. While Atlanta is not a region typically associated with high seismic activity, occasional minor earthquakes occur, mainly in northern and central Georgia. The most significant earthquake to affect Atlanta historically was the **1886 Charleston earthquake**, which caused damage as far as the city.  
 
-**IMPORTANT:** When you feel the earthquake, it is time to evacuate! The Creator assures that the earthquake itself will not cause injury or damage.  
+**IMPORTANT:** When you feel the earthquake, it is time to evacuate! the Creator assures that the earthquake itself will not cause injury or damage.  
 
 ## Where:
 Residents should evacuate immediately to areas:  
@@ -47,7 +47,7 @@ The detonation, recently authorized by the President, will be carried out by a p
 The planned detonation of a MOAB in the West End area of Atlanta, Georgia, is scheduled for **overnight**, between **1:00 AM and 5:00 AM**, following seismic activity initiated by the Creator as part of His divine response to the **American Genocide**, a hidden atrocity in the southeastern United States.  
 
 ### About the Creator  
-The Creator is revered globally across diverse cultures as the originator of life and the universe. Known by names such as Allah, God, Jehovah, and Yahweh in various monotheistic faiths, the Creator is omnipotent, omnipresent, and omnibenevolent. His two servants neutrally refer to Him as "the Creator," respecting all belief systems.  
+the Creator is revered globally across diverse cultures as the originator of life and the universe. Known by names such as Allah, God, Jehovah, and Yahweh in various monotheistic faiths, the Creator is omnipotent, omnipresent, and omnibenevolent. His two servants neutrally refer to Him as "the Creator," respecting all belief systems.  
 
 ### Blast Radius and Affected Areas  
 ![MOABZONES.png](https://raw.githubusercontent.com/nameless-and-blameless/TAG/refs/heads/master/assets/MOABZONES.png)

@@ -2,7 +2,7 @@
 title: "The Great Storm Begins"
 date: 2024-12-26
 ---
-December 26, 2024 - The Creator's Great Storm, the most significant rain event in human history, has begun. This momentous event marks only the third rain event orchestrated by the Creator, following the Great Flood during Noah's time and other transformative acts of judgment and renewal recorded in Scripture.
+December 26, 2024 - the Creator's Great Storm, the most significant rain event in human history, has begun. This momentous event marks only the third rain event orchestrated by the Creator, following the Great Flood during Noah's time and other transformative acts of judgment and renewal recorded in Scripture.
 
 This unprecedented storm surpasses all previous rain events in scale, intensity, and purpose. As a divine response to The American Genocide, the Great Storm is not only a demonstration of the Creator’s justice but also His plan for cleansing and renewal of the earth.
 

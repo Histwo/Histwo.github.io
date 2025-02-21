@@ -6,7 +6,7 @@ layout: home
 ![the cherubim](http://Histwo.github.io/cherubim.jpg)
 
 # Welcome  
-The Creator’s two servants are the only ones chosen to fulfill His divine will, their lives meticulously designed across lifetimes to ensure unwavering alignment with His purpose. Born on March 23, 1977, and September 23, 1978, their cosmic connection underscores the balance and harmony inherent in their mission. Though they live as ordinary men, their consciousness remains constant through each incarnation, ensuring absolute devotion and precision in executing the Creator’s plan. Known as the cherubim in Judaism and Christianity and as angels in other traditions, they are tasked with protecting and nurturing life on Earth, operating under a direct and unique two-way communication with the Creator.
+the Creator’s two servants are the only ones chosen to fulfill His divine will, their lives meticulously designed across lifetimes to ensure unwavering alignment with His purpose. Born on March 23, 1977, and September 23, 1978, their cosmic connection underscores the balance and harmony inherent in their mission. Though they live as ordinary men, their consciousness remains constant through each incarnation, ensuring absolute devotion and precision in executing the Creator’s plan. Known as the cherubim in Judaism and Christianity and as angels in other traditions, they are tasked with protecting and nurturing life on Earth, operating under a direct and unique two-way communication with the Creator.
 
 Learn more about [the Creator and His two servants](about.md).  
 

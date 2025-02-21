@@ -10,7 +10,7 @@ date: 2025-01-31
 
 - **Atlanta**  
 
-- **Announcing the Start of the Conquer Phase of "Divide & Conquer: The Apocalypse" and The Purple Rain** – The Creator’s direct intervention into TAG.  
+- **Announcing the Start of the Conquer Phase of "Divide & Conquer: The Apocalypse" and The Purple Rain** – the Creator’s direct intervention into TAG.  
 
 - **Announcement of The Second Coming of Jesus.**  
 
@@ -26,7 +26,7 @@ date: 2025-01-31
 
 ### **WHO:**  
 - **Jesus Christ**  
-- The Creator's two servants  
+- the Creator's two servants  
 
 ### **WHEN:**  
 - At noon (Central) immediately following the Creator's seismic intervention (The Apocalypse).  

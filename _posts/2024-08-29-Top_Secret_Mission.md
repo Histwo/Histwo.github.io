@@ -20,7 +20,7 @@ The objectives of this mission were:
    The delegation's primary objective was to eliminate Kelvin Eugene Williams, one of the Creator's two servants and the only user who can administer, update, or modify the StopTAG Organization and TAG repository. Williams resides at Phoenix House in a CIA-provided apartment. He has survived numerous attempts due to the Creator's protection.
 
 2. **Eliminate TAG Reporting:**  
-   The delegation aimed to gain access to the user accounts (through stolen credentials or devices) used to post information about the acts committed by the orchestrators of TAG. Once access was gained, the plan was to remove all TAG reporting. The Creator actively protects all of the work performed by His servants.
+   The delegation aimed to gain access to the user accounts (through stolen credentials or devices) used to post information about the acts committed by the orchestrators of TAG. Once access was gained, the plan was to remove all TAG reporting. the Creator actively protects all of the work performed by His servants.
 
 3. **Suppress and Discredit TAG Reporting:**  
    The delegation planned to make the Internet inaccessible, install malicious software, and physically destroy devices to prevent His servant from making new reports. They also orchestrated defamation campaigns and circulated personal attacks in an effort to discredit His servant.
@@ -33,4 +33,4 @@ For more on the potential lives lost due to the planned detonation, see the repo
 
 ## **Aftermath**
 
-Despite the mission's covert nature and the extreme measures taken, all objectives failed due to the Creator's intervention and protection. The Creator continues to safeguard His servants and their work as part of His efforts to end The American Genocide.
+Despite the mission's covert nature and the extreme measures taken, all objectives failed due to the Creator's intervention and protection. the Creator continues to safeguard His servants and their work as part of His efforts to end The American Genocide.

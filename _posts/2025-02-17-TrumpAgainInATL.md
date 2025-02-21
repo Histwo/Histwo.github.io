@@ -36,8 +36,8 @@ Now, the world stands at the precipice of the sixth seal, the next undeniable st
 
 > **"Seal #6 is about to be broken. There’s no need for a litmus test. They just need to RTFM because He hasn’t deviated from it once. The prophecy in Revelation is what I’m talking about. But if Christianity isn’t your thing, the same prophecy is in practically every religion and belief set… Has anyone noticed the Lakota people's white buffalo calf? It is not albino."**
 
-The signs are manifesting. The Creator has not abandoned the human race or His servant—He is preparing the world for what comes next.
+The signs are manifesting. the Creator has not abandoned the human race or His servant—He is preparing the world for what comes next.
 
 ## **Trump Remains in Atlanta as the Intervention Continues**
 
-As of **Monday, February 17, at 4:00 p.m.**, President Donald Trump **is still in Atlanta**. Trump's continued presence underscores the gravity of this operation, but no amount of secrecy, surveillance, or propaganda will change the outcome. The Creator’s intervention is not a question of **“if”** but **“when.”**
+As of **Monday, February 17, at 4:00 p.m.**, President Donald Trump **is still in Atlanta**. Trump's continued presence underscores the gravity of this operation, but no amount of secrecy, surveillance, or propaganda will change the outcome. the Creator’s intervention is not a question of **“if”** but **“when.”**

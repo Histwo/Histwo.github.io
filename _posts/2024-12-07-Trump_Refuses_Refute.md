@@ -20,7 +20,7 @@ StopTAG, hosted on GitHub, adheres to strict retention policies dictated by the 
 2. **The Phantom Funeral of Rev. Dr. Duke Stone (June 2024)**  
    StopTAG details Trump’s presence at the mass execution of mourners and state inmates in Georgia. Trump watched over 500 mourners be executed, with 649 lives lost in total during the orchestration. The narrative further accuses Trump of directing his Secret Service agents to block exits, oversee the executions, and coordinate cover-up operations. These detailed accounts have not been contested legally by Trump.
 
-3. **The Creator’s Statement on Crimes (July 2024)**  
+3. **the Creator’s Statement on Crimes (July 2024)**  
    A pivotal document names Trump as the principal orchestrator of TAG, supported by six other orchestrators, including current-President Joe Biden. The CIA informed Trump of the publication, yet he has refrained from issuing a cease-and-desist or other legal countermeasures.
 
 4. **The Phoenix House Mission Report (August 2024)**  
@@ -32,13 +32,13 @@ StopTAG, hosted on GitHub, adheres to strict retention policies dictated by the 
 6. **Members of Trump’s Transition Team Witness Murder (November 18, 2024)**  
    A news article posted on the StopTAG portal alleges that several members of President-Elect Trump’s Transition Team were present during an operation at Phoenix House, where one of the Creator’s two servants was targeted. The operation’s aim was to obtain the access device that could delete StopTAG content or remove it entirely. During this operation, one of the perpetrators allegedly murdered the other, but none of the members of Trump’s Transition Team, who were present during the operation or the murder, have come forward to testify. Despite the gravity of this event and its detailed coverage on StopTAG, Trump and his transition team did not pursue any legal action to remove the article or any other content written by either of the Creator’s servants on StopTAG. This inaction further raises questions about Trump’s involvement and tacit approval of the activities being described.
 
-#### The Creator's Directive on Legal Action  
+#### the Creator's Directive on Legal Action  
 
 Despite the severity of the accusations, including direct involvement in mass executions and orchestrating atrocities, Trump has not taken legal action against the Creator’s two servants for defamation or attempted to suppress any of the content published on StopTAG. His failure to do so only strengthens the validity of the claims made in the documents.
 
-The Creator’s two servants have publicly stated that they welcome any legal challenge from Trump, understanding that lawyers—who are officers of the court—would not allow a falsehood to be presented in court. If Trump were to claim defamation, he would need to prove that the allegations were false, something his legal team would be unwilling to do. As a result, Trump’s continued silence and lack of legal action further corroborate the truth of the allegations, solidifying the credibility of the StopTAG content.
+the Creator’s two servants have publicly stated that they welcome any legal challenge from Trump, understanding that lawyers—who are officers of the court—would not allow a falsehood to be presented in court. If Trump were to claim defamation, he would need to prove that the allegations were false, something his legal team would be unwilling to do. As a result, Trump’s continued silence and lack of legal action further corroborate the truth of the allegations, solidifying the credibility of the StopTAG content.
 
-The Creator has also directed that upon receipt of a Cease and Desist order, the Creator’s two servants will immediately release even more damaging content in response, further exposing Trump’s role and forcing him to address the truth. Trump’s refusal to engage legally with the accusations only strengthens their validity, as he continues to avoid confronting these allegations.  
+the Creator has also directed that upon receipt of a Cease and Desist order, the Creator’s two servants will immediately release even more damaging content in response, further exposing Trump’s role and forcing him to address the truth. Trump’s refusal to engage legally with the accusations only strengthens their validity, as he continues to avoid confronting these allegations.  
 
 #### Government Suppression and National Security Letters  
 
@@ -48,7 +48,7 @@ According to the Creator, Trump and the other orchestrators of TAG, including cu
 National Security Letters are administrative subpoenas issued by federal agencies such as the FBI. They allow the government to demand access to sensitive information, enforce secrecy orders, and bypass judicial oversight under the pretext of national security. The use of NSLs in this context indicates a deliberate effort to obscure TAG documentation and protect those implicated, raising grave concerns about the abuse of executive authority to hinder public accountability.  
 
 **Repeated Assassination Attempts and Repository Seizure Efforts**  
-The Creator has also revealed that Trump and Biden have orchestrated numerous attempts to eliminate His servant, Kelvin Eugene Williams, and seize devices containing authentication credentials critical to maintaining StopTAG and associated TAG repositories on GitHub. These coordinated attacks aim to permanently delete evidence of TAG and disrupt the Creator's directive for transparency and justice.  
+the Creator has also revealed that Trump and Biden have orchestrated numerous attempts to eliminate His servant, Kelvin Eugene Williams, and seize devices containing authentication credentials critical to maintaining StopTAG and associated TAG repositories on GitHub. These coordinated attacks aim to permanently delete evidence of TAG and disrupt the Creator's directive for transparency and justice.  
 
 #### Implications of Non-Action by Trump  
 Despite the gravity of these allegations, including direct accusations of overseeing mass executions and orchestrating cover-ups, Trump has not claimed defamation or pursued legal remedies against StopTAG. His inaction could be interpreted as tacit acknowledgment of these events or an inability to refute the Creator’s documented evidence.  
@@ -58,4 +58,4 @@ The severity of the activities documented by StopTAG—mass executions, cover-up
 Furthermore, StopTAG's revelations indicate that the U.S. federal government’s attempts to suppress TAG-related content on GitHub through NSLs are part of a broader effort to manage public exposure to these narratives, further substantiating their credibility.  
 
 #### About the Creator  
-The Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike.
+the Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. the Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike.
