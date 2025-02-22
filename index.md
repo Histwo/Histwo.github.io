@@ -31,12 +31,7 @@ From a spiritual perspective, righteousness is often associated with obedience t
 In a broader moral or philosophical context, righteousness can be seen as the pursuit of justice and ethical living, ensuring that one's actions contribute to the well-being of others and the greater good.  
 
 ## Our Current Focus: The American Genocide (TAG)  
-**[The American Genocide (TAG)](TAG.md)** is an ongoing hidden atrocity, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.  
-
-### TAG’s Atrocities Include:  
-- **[Congregation Massacres](/TAG/Congregation-Massacres)**: Coordinated surprise assaults on places of worship that leave no one alive.  
-- **[Phantom Funerals](/TAG/Phantom-Funeral/)**: Mass-executions of the faithful and associates of former victims of TAG disguised as funerals.  
-- **[Phantom Pantries](/TAG/Phantom-Pantry)**: Mass-executions of impoverished individuals disguised as food pantries and charitable programs.  
+**[The American Genocide (TAG)](/TAG/)** is an ongoing hidden atrocity, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.  
 
 ---
 
