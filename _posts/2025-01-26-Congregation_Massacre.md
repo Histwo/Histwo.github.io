@@ -1,7 +1,6 @@
 ---
 title: "Congregation Massacres: A Dark Chapter in The American Genocide (TAG)"
 date: 2025-01-26
-permalink: /TAG/Congregation-Massacre
 ---
 
 The Congregation Massacres are a chilling chapter in *The American Genocide (TAG)*, a series of covert, high-intensity operations targeting church congregations during their weekly worship services. Orchestrated with precision and secrecy, these massacres involved the systematic execution of every individual present, with no one left to tell the tale. Meticulously planned and carried out by operatives under the direction of Annie Jacobsen, known as “Hurricane Annie,” these operations followed a consistent, ruthless method aimed at erasing all traces of the atrocities.
