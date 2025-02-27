@@ -1,5 +1,5 @@
 ---
-title: "Histwo"
+title: "Home"
 list_title: "News and Updates"
 layout: home
 ---
