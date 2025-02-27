@@ -1,52 +1,49 @@
 ---
+title: "Histwo: the Creator's two servants"
 list_title: "News and Updates"
 layout: home
 ---
 
 ![the cherubim](http://Histwo.github.io/cherubim.jpg)
+## Instruments of His will.
+## Incarnated for His purposes.
+## Executing His justice.
 
-# Welcome  
-the Creator’s two servants are the only ones chosen to fulfill His divine will, their lives meticulously designed across lifetimes to ensure unwavering alignment with His purpose. Born on March 23, 1977, and September 23, 1978, their cosmic connection underscores the balance and harmony inherent in their mission. Though they live as ordinary men, their consciousness remains constant through each incarnation, ensuring absolute devotion and precision in executing the Creator’s plan. Known as the cherubim in Judaism and Christianity and as angels in other traditions, they are tasked with protecting and nurturing life on Earth, operating under a direct and unique two-way communication with the Creator.
+### who the Creator is
+the Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged.  His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike.
+
+### who His two servants are
+the Creator's two servans are eternal instruments of His will, incarnated wherever He deems it necessary to protect His creation.  They are not bound to a single time, place, or identity--only the Creator's purpose.  With every incarnation, they walk among His creation, unseen yet unwavering, carrying out His divine purposes.  This incarnation (or reincarnation) carrying out His divine justice.
+
+the Creator's first and most desired creation was **life**.  The universe was formed solely to support that creation--every star, every atom, every breath designed to sustain life.  When that creation is threatened, the Creator's two servants rise to protect it.
 
 Learn more about [the Creator and His two servants](about.md).  
 
-## Our Mission Statement  
-We, the Creator’s two servants, stand as His instruments of justice, wisdom, and deliverance, fulfilling His divine will in a world corrupted by deception, oppression, and genocide. Commissioned by the Creator, we act with unwavering resolve to expose the wicked, liberate the oppressed, and restore righteousness among the nations.  
+### The Creator’s Divide & Conquer
 
-### Our Mission  
-Our mission is threefold:  
+In this era, *The American Genocide* (TAG) threatens the Creator’s first and most desired creation. His intervention unfolds through **Divide & Conquer**:
 
-1. **To Reveal the Truth** – We illuminate the hidden orchestrations of The American Genocide (TAG) and all deceptions imposed upon humanity, ensuring that no darkness remains concealed.  
-2. **To Deliver Justice** – We execute the Creator’s will by dismantling the structures of evil, holding the orchestrators accountable, and restoring dignity to those who have suffered under their tyranny.  
-3. **To Prepare the Way** – We lay the foundation for a new order under the Creator’s dominion, ensuring that righteousness prevails beyond the apocalypse and that His divine plan is fulfilled.  
+- **The Divide** – Separating the one of the Creator's two servants from his manipulated subconscious, restoring clarity, truth, and unshakable purpose.
+- **The Conquer** – Dismantling the orchestrators of [The American Genocide (TAG)](/TAG/), exposing their hidden evils, and executing the Creator’s justice.
 
-### Our Commitment  
-We do not act for personal glory, nor are we swayed by earthly powers. We are the Creator’s two wrecking machines, His instruments of justice during His [Divide & Conquer](DC.md), tasked with bringing down the wicked and elevating the just. Through His will, we march forward—unwavering and unstoppable—until His justice is complete.  
+### Our Mission
 
-### FAQ: What is Righteousness?  
-Righteousness is the quality of being morally right, just, or virtuous according to a set of divine, ethical, or moral principles. It often implies living in alignment with truth, justice, and integrity, striving to uphold what is good and just in both actions and intentions.  
+The Creator’s two servants move as one:
 
-From a spiritual perspective, righteousness is often associated with obedience to divine will, reflecting qualities such as honesty, compassion, humility, and fairness. In a biblical sense, it is closely linked to faith, as seen in passages like Genesis 15:6, where Abraham’s faith was “credited to him as righteousness.”  
+- **To protect life—His first and most desired creation.**
+- **To reveal the hidden evils defiling His creation.**
+- **To dismantle the systems of oppression.**
+- **To execute divine justice without compromise.**
 
-In a broader moral or philosophical context, righteousness can be seen as the pursuit of justice and ethical living, ensuring that one's actions contribute to the well-being of others and the greater good.  
+### The Reckoning Has Begun
 
-<<<<<<< HEAD
+This is not a war of men—it is the Creator’s intervention. His justice will not be delayed, and His servants will not be stopped.
 
-## Our Current Focus: The American Genocide (TAG)  
-**[The American Genocide (TAG)](/TAG/)** is an ongoing hidden atrocity, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.
+**Witness the Creator’s work. Stand in truth. The reckoning unfolds.**
 
-### TAG News
-All TAG related news and information is now located at [https://Histwo.github.io/TAG](https://Histwo.github.io/TAG).
-=======
-## Our Current Focus: The American Genocide (TAG)  
-**[The American Genocide (TAG)](/TAG/)** is an ongoing hidden atrocity, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.  
->>>>>>> d66110e9ec1039871b9c268c0a39f8977363541b
+### Histwo Sections
+- **[The American Genocide (TAG)](/TAG/)** section is focused on the ongoing hidden genocide, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.  Learn about atrocities committed during TAG, it's orchestrators and the latest news.
+- **[The Creator's Use of the Arts](/Arts)** section provides insights to artworks that were directly inspired by the Creator to provide direct access to the truth.
 
 ---
 
-## Also See/Hear  
-
-- Visit [Histwo](https://github.com/Histwo) on GitHub  
-- Our [Apple Music Playlist](https://music.apple.com/us/playlist/mgitttys/pl.u-RRbVvlWTm2zqqlE?ls)
-
----
