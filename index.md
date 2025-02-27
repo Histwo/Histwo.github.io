@@ -1,5 +1,5 @@
 ---
-title: "Histwo: the Creator's two servants"
+title: "Histwo"
 list_title: "News and Updates"
 layout: home
 ---
