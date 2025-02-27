@@ -3,11 +3,10 @@ title: "Histwo"
 list_title: "News and Updates"
 layout: home
 ---
-
-![the cherubim](http://Histwo.github.io/cherubim.jpg)
 ## Instruments of His will.
 ## Incarnated for His purposes.
 ## Executing His justice.
+![the cherubim](http://Histwo.github.io/cherubim.jpg)
 
 ### who the Creator is
 the Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged.  His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike.
