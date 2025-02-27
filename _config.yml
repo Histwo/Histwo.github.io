@@ -1,10 +1,9 @@
 theme: minima
 title: Histwo
 author: Histwo
-description: Histwo - The online home of the Creator's two servants
+description: Histwo
 baseurl: "/"
 url: "https://Histwo.github.io"
-twitter_username: undefined
 github_username: Histwo
 header_pages:
   - index.md
