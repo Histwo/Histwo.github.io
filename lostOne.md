@@ -3,7 +3,7 @@ title: "lost One"
 date: 2025-02-01
 ---
 ## Update
-February 26, 2025: The private key (secret key) necessary to decrypt "lost One" will be made publicly available at the media briefing, scheduled to take place at noon in Sandy Hook, Tennessee, at 8390 West Sheepneck Road in Maury County. This briefing will occur following the Creator's seismic intervention, marking a pivotal moment in the ongoing mission to unveil the truths that have been concealed. Attendees will have the opportunity to obtain the key, unlocking the critical information that will bring clarity to the mysteries surrounding this intervention.
+February 26, 2025: The private key (secret key) necessary to decrypt "lostOne" will be made publicly available at the media briefing, scheduled to take place at noon in Sandy Hook, Tennessee, at 8390 West Sheepneck Road in Maury County. This briefing will occur following the Creator's seismic intervention, marking a pivotal moment in the ongoing mission to unveil the truths that have been concealed.  Details will be provided as to where the public may download the key and the key's passphrase.
 
 ---
 
