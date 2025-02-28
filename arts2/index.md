@@ -1,6 +1,7 @@
 ---
 title: "The Arts: A Divine Medium of Revelation"
 list_title: Insights
+layout: home
 ---
 [Return to Histwo Home](https://Histwo.github.io)
 
