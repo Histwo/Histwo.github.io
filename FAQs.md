@@ -18,7 +18,7 @@ Here is where you'll find answers to questions about the Creator, His servants, 
 
 At this time, answers are provided to the questions the Creator has most frequently received and shared with His servants, as well as those His servants commonly encounter while interacting with His creation—you, the readers—whether online or in person.
 
-Below is a list of answered questions, though it is not exhaustive. New answers will be added regularly, and soon, you’ll be able to search for specific questions with ease.
+Below is a list of answered questions, though it is not exhaustive. The "short answer" is shown, you can view a full answer by clicking the question.  New answers will be added regularly.
 
 **Note:** Due to the nature of our current mission, we are not accepting question submissions online. However, the Creator hears all prayers and is the Supreme Editor of Histwo. If you wish to have a question posted here, the safest way to ask is by submitting it in prayer to the Supreme Editor (using whatever name you typically use).
 
