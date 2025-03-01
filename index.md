@@ -39,7 +39,7 @@ This is not a war of men—it is the Creator’s intervention. His justice will 
 ## Histwo Sections
 - **[TAG](/TAG)** is focused on the ongoing The American Genocide, a hidden genocide, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.  Learn about atrocities committed during TAG, it's orchestrators and the latest news.
 - **[Arts](/Arts)** provides insights to artworks that were directly inspired by the Creator to provide direct access to the truth.
-- **[FAQs](/FAQs)** provides answers to questions you may have about the Creator, His two servants, or anything you'd ask Us?  The FAQ section provides answers to the most common questions His two servants encounter, covering topics like the meaning of life, destiny, and the Creator's will.  While the list isn't exhaustive, new answers will be added regularly.
+- **[FAQs](/FAQs.md)** provides answers to questions you may have about the Creator, His two servants, or anything you'd ask Us?  The FAQ section provides answers to the most common questions His two servants encounter, covering topics like the meaning of life, destiny, and the Creator's will.  While the list isn't exhaustive, new answers will be added regularly.
 
 ---
 
