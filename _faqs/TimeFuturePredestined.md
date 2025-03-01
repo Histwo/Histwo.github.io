@@ -3,7 +3,6 @@ title: "If the future is predestined, why should I do/be good or live righteousl
 date: 2025-02-28
 ---
 
-## Answer
 While the Creator has caused prophecies to be written about the future, it was so humanity can be aware of what was to come, especially during the transition from the Piscean Age to the Age of Aquarius—a time of great tribulation. These prophecies were shared to highlight that the future will be filled with qualities like harmony and understanding, sympathy and trust, freedom and peace, just as described in the song *"Aquarius" by the 5th Dimension.*
 
 However, the Creator will never tell anyone their exact future, not even His two servants. He refrains from revealing the details of the future because if people knew exactly what was coming, they would stop truly living and instead, only exist in anticipation of what they’ve been told. In the Creator's eyes, living solely for the foretold future is not truly living. He wants each soul to experience life fully, making choices and striving to be their best in each moment.
