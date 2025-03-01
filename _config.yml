@@ -14,19 +14,9 @@ collections:
   FAQs:
     output: true
     permalink: /FAQs/:title/
-    defaults:
-      - scope:
-          path: ""
-          type: FAQs
-        values:
-          layout: faqs
-  qs:
-    output: true
-    permalink: /qs/:title/
-    defaults:
-      - scope:
-          path: ""
-          type: qs
-        values:
-          layout: qs
-
+defaults:
+  - scope:
+      path: ""
+      type: "FAQs"
+    values:
+      layout: "faqs"

@@ -31,7 +31,7 @@ Below is a list of answered questions, though it is not exhaustive. The "short a
     <li>
     <span class="post-meta">{{ faq.date | date: date_format }}</span>
     <h3>
-        <a class="post-link" href="{{ faq.url | relative_url }}">
+        <a class="post-link" href="{{ faq.url }}">
         {{ faq.question | escape }}
         </a>
     </h3>
