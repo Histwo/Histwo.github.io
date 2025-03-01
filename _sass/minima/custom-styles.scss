@@ -1,0 +1,36 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+.faq-list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    margin-bottom: 1em;
+    padding: 1em;
+    background: #f9f9f9;
+    border-radius: 4px;
+
+    a {
+      color: #2a7ae2;
+      text-decoration: none;
+      font-weight: bold;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    p {
+      margin: 0.5em 0 0 0;
+      color: #666;
+    }
+  }
+}
+
+.faq-item {
+  .short-answer {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 1em;
+  }
+}
