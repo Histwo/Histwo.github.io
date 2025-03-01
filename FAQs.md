@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 url: /FAQs/index.html
-layout: home
+layout: base
 
 ---
 # Welcome to the Histwo FAQs  
@@ -39,4 +39,4 @@ Below is a list of answered questions, though it is not exhaustive. New answers 
     </li>
     {%- endfor -%}
 </ul>
-<p>0519</p>
+<p>0823</p>
