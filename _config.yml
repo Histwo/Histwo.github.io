@@ -1,12 +1,11 @@
 theme: minima
 title: Histwo
 author: the Creator's two servants
-description: "Histwo is the official website of the Creator’s two servants, eternal instruments of His will, incarnated to protect His creation. Here, their mission, purpose, and interventions are revealed as they fulfill the Creator’s will in this era."
+description: "Histwo is the official website of the Creator’s two servants, eternal instruments of His will, incarnated to protect His creation."
 baseurl: "/"
 url: "https://Histwo.github.io"
 github_username: Histwo
 header_pages:
-  - index.md
   - about.md
   - TAG.md
   - DC.md
@@ -14,5 +13,10 @@ header_pages:
 collections:
   faqs:
     output: true
-    layout: post
+    defaults:
+      - scope:
+          path: ""
+          type: faqs
+        values:
+          layout: faq
 

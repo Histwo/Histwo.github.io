@@ -27,8 +27,7 @@ Below is a list of answered questions, though it is not exhaustive. New answers 
 <h2>Answered Questions</h2>
 <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {% assign sorted_faqs = site.faqs | sort: date | reverse %}
-    {% for faq in sorted_faqs %}
+    {% for faq in site.faqs %}
     <li>
     <span class="post-meta">{{ faq.date | date: date_format }}</span>
     <h3>
@@ -36,9 +35,7 @@ Below is a list of answered questions, though it is not exhaustive. New answers 
         {{ faq.title | escape }}
         </a>
     </h3>
-    {%- if page.show_abstract -%}
-        {{ faq.excerpt }}
-    {%- endif -%}
+        {{ faq.short_answer }}
     </li>
     {%- endfor -%}
 </ul>

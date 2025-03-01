@@ -1,12 +1,8 @@
 ---
-title: "Jesus"
-date: 1970-01-01
+question: "Jesus"
+short_answer: "Jesus was the Creator incarnate, and He has taken human form many times throughout history. The Apocalypse is the "Second Coming of Jesus," marking His return to restore hope, especially following the persecution of Christians during The American Genocide."
 ---
 
-## Short Answer
-Jesus was the Creator incarnate, and He has taken human form many times throughout history. The Apocalypse is the "Second Coming of Jesus," marking His return to restore hope, especially following the persecution of Christians during The American Genocide.
-
-## Answer
 - **Who was Jesus?**
   Jesus was the Creator incarnate—the Creator in a human body. The Creator has taken human form numerous times in the past and will continue to do so as He deems necessary. Additionally, the Creator is not limited to a single incarnation; He can be present in multiple bodies at the same time.  (See more [about the Creator](https://Histwo.github.io/about.md))
 
