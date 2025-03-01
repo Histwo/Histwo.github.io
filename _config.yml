@@ -13,7 +13,7 @@ header_pages:
 collections:
   FAQs:
     output: true
-    permalink: /FAQs/:title/
+    permalink: /FAQs/:id/
 defaults:
   - scope:
       path: ""
