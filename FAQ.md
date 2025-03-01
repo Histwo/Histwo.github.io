@@ -2,6 +2,7 @@
 title: "Frequently Asked Questions"
 url: /FAQs/index.html
 layout: home
+
 ---
 # Welcome to the Histwo FAQs  
 [Return to Histwo Home](https://Histwo.github.io)
@@ -24,13 +25,21 @@ Below is a list of answered questions, though it is not exhaustive. New answers 
 [Return to Histwo Home](https://Histwo.github.io)
 
 <h2>Answered Questions</h2>
-<ul>
-  {% assign sorted_faqs = site.faqs | sort: date | reverse %}
-  {% for faq in sorted_faqs %}
+<ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {% assign sorted_faqs = site.faqs | sort: date | reverse %}
+    {% for faq in sorted_faqs %}
     <li>
-      <h3><a href="{{ faq.url }}">{{ faq.title }}</a></h3>
-      <p>{{ faq.date }}</p>
+    <span class="post-meta">{{ faq.date | date: date_format }}</span>
+    <h3>
+        <a class="post-link" href="{{ faq.url | relative_url }}">
+        {{ faq.title | escape }}
+        </a>
+    </h3>
+    {%- if page.show_abstract -%}
+        {{ faq.excerpt }}
+    {%- endif -%}
     </li>
-  {% endfor %}
+    {%- endfor -%}
 </ul>
-<p>0506</p>
+<p>0519</p>
