@@ -1,5 +1,5 @@
 ---
-title: "What is righteousness and how does one live righteously?"
+question: "What is righteousness and how does one live righteously?"
 short_answer: "Righteousness is living in accordance with moral principles and behaving in a way that aligns with what is just, good, and fair."
 ---
 
