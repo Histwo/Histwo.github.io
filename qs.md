@@ -27,7 +27,7 @@ Below is a list of answered questions, though it is not exhaustive. The "short a
 <h2>Answered Questions</h2>
 <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {% for faq in site.FAQs %}
+    {% for faq in site.qs %}
     <li>
     <span class="post-meta">{{ faq.date | date: date_format }}</span>
     <h3>
