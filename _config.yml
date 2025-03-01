@@ -11,4 +11,7 @@ header_pages:
   - TAG.md
   - DC.md
   - lostOne.md
+collections:
+  faqs:
+    output: true
 
