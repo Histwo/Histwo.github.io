@@ -16,7 +16,7 @@ the Creator's first and most desired creation was **life**.  The universe was fo
 
 Learn more about [the Creator and His two servants](about.md).  
 
-## The Creator’s Divide & Conquer
+## the Creator’s *divide & conquer*
 In this era, *The American Genocide* (TAG) threatens the Creator’s first and most desired creation. His intervention unfolds through **Divide & Conquer**:
 
 - **The Divide** – Separating the one of the Creator's two servants from his manipulated subconscious, restoring clarity, truth, and unshakable purpose.
@@ -37,9 +37,9 @@ This is not a war of men—it is the Creator’s intervention. His justice will 
 **Witness the Creator’s work. Stand in truth. The reckoning unfolds.**
 
 ## Histwo Sections
-- **[The American Genocide (TAG)](/TAG/)** section is focused on the ongoing hidden genocide, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.  Learn about atrocities committed during TAG, it's orchestrators and the latest news.
-- **[The Creator's Use of the Arts](/Arts)** section provides insights to artworks that were directly inspired by the Creator to provide direct access to the truth.
-- **[Frequently Asked Questions](/FAQs)** Have questions about the Creator, His two servants, or the deeper mysteries of existence?  The FAQ section provides answers to the most common questions His two servants encounter, covering topics like the meaning of life, destiny, and the Creator's will.  While the list isn't exhaustive, new answers will be added regularly.
+- **The [TAG](/TAG/)** section is focused on the ongoing The American Genocide, a hidden genocide, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.  Learn about atrocities committed during TAG, it's orchestrators and the latest news.
+- **The [Arts](/Arts)** section provides insights to artworks that were directly inspired by the Creator to provide direct access to the truth.
+- **The [FAQs](/FAQs)** section provides answers to questions you may have about the Creator, His two servants, or anything you'd ask Us?  The FAQ section provides answers to the most common questions His two servants encounter, covering topics like the meaning of life, destiny, and the Creator's will.  While the list isn't exhaustive, new answers will be added regularly.
 
 ---
 
