@@ -24,7 +24,9 @@ Below is a list of answered questions, though it is not exhaustive. New answers 
 
 <h2>Answered Questions</h2>
 <ul>
-  {% for faq in site.faqs %}
+
+  {% assign sorted_faqs = site.faqs | sort: date | reverse %}
+  {% for faq in sorted_faqs %}
     <li>
       <h3><a href="{{ faq.url }}">{{ faq.title }}</a></h3>
       <p>{{ faq.date }}</p>
