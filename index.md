@@ -44,5 +44,6 @@ This is not a war of men—it is the Creator’s intervention. His justice will 
 - **[The American Genocide (TAG)](/TAG/)** section is focused on the ongoing hidden genocide, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.  Learn about atrocities committed during TAG, it's orchestrators and the latest news.
 - **[The Creator's Use of the Arts](/Arts)** section provides insights to artworks that were directly inspired by the Creator to provide direct access to the truth.
 - **[Frequently Asked Questions](/FAQs)** Have questions about the Creator, His two servants, or the deeper mysteries of existence?  The FAQ section provides answers to the most common questions His two servants encounter, covering topics like the meaning of life, destiny, and the Creator's will.  While the list isn't exhaustive, new answers will be added regularly.
+
 ---
 
