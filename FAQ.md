@@ -27,7 +27,7 @@ Below is a list of answered questions, though it is not exhaustive. New answers 
   {% for faq in site.faqs %}
     <li>
       <h3><a href="{{ faq.url }}">{{ faq.title }}</a></h3>
-      <p>{{ faq.excerpt }}</p>
+      <p>{{ faq.date }}</p>
     </li>
   {% endfor %}
 </ul>
