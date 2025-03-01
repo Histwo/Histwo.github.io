@@ -32,7 +32,7 @@ Below is a list of answered questions, though it is not exhaustive. New answers 
     <span class="post-meta">{{ faq.date | date: date_format }}</span>
     <h3>
         <a class="post-link" href="{{ faq.url | relative_url }}">
-        {{ faq.title | escape }}
+        {{ faq.question | escape }}
         </a>
     </h3>
         {{ faq.short_answer }}
