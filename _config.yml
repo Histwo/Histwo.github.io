@@ -11,12 +11,13 @@ header_pages:
   - DC.md
   - lostOne.md
 collections:
-  faqs:
+  FAQs:
     output: true
+    permalink: /FAQs/:name/
     defaults:
       - scope:
           path: ""
-          type: faqs
+          type: FAQs
         values:
-          layout: faq
+          layout: FAQs
 
