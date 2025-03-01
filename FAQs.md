@@ -1,9 +1,9 @@
 ---
 title: "Frequently Asked Questions"
 url: /FAQs/index.html
-layout: base
-
+layout: page
 ---
+
 # Welcome to the Histwo FAQs  
 [Return to Histwo Home](https://Histwo.github.io)
 
