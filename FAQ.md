@@ -1,6 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 url: /FAQs/index.html
+layout: home
 ---
 # Welcome to the Histwo FAQs  
 [Return to Histwo Home](https://Histwo.github.io)
@@ -24,7 +25,6 @@ Below is a list of answered questions, though it is not exhaustive. New answers 
 
 <h2>Answered Questions</h2>
 <ul>
-
   {% assign sorted_faqs = site.faqs | sort: date | reverse %}
   {% for faq in sorted_faqs %}
     <li>
@@ -33,3 +33,4 @@ Below is a list of answered questions, though it is not exhaustive. New answers 
     </li>
   {% endfor %}
 </ul>
+<p>0506</p>
