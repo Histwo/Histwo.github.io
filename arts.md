@@ -34,9 +34,8 @@ Explore the Creator’s presence in the arts and witness how divine inspiration 
 <h2>Insights</h2>
 <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {% for i in site.arts %}
+    {% for i in site.insights %}
     <li>
-    <span class="post-meta">{{ faq.date | date: date_format }}</span>
     <h3>
         <a class="post-link" href="{{ i.url | relative_url }}">
         {{ i.title | escape }}
