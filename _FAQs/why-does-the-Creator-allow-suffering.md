@@ -1,6 +1,7 @@
 ---
 question: "Why does the Creator allow suffering in the world?"
 short_answer: "The Creator allows suffering because of His non-interventionist stance, respecting free will and the natural course of existence. Suffering is part of the process that allows for growth, development, and the exercise of choice. Any attempt at intervention could cause more harm, as conscious entities would keep retrying activities with increasing intensity."
+tags: ["Suffering & Evil"]
 ---
 
 The Creator has a non-interventionist stance, meaning He does not actively interfere with the natural course of events or human actions. Suffering exists as part of the complexity of life, arising from the choices made by individuals and the inherent conditions of existence. The Creator allows suffering because it is an integral part of the process of growth, development, and understanding.

@@ -1,6 +1,7 @@
 ---
 question: "The Jesus Question: A Multifaceted Inquiry"
 short_answer: "Jesus was the Creator incarnate—the Creator in a human body.  The Creator has taken human form many times throughout history. The Apocalypse is the \"Second Coming of Jesus,\" marking His return to restore hope, especially following the persecution of Christians during The American Genocide."
+tags: ["Religion"]
 ---
 
 - **Who was Jesus?**

@@ -1,6 +1,7 @@
 ---
 question: "If the future is predestined, why should I do/be good or live righteously?"
 short_answer: "Strive to make each second in your life the best it can be for you and everyone else."
+tags: ["Destiny & Free Will"]
 ---
 
 While the Creator has caused prophecies to be written about the future, it was so humanity can be aware of what was to come, especially during the transition from the Piscean Age to the Age of Aquarius—a time of great tribulation. These prophecies were shared to highlight that the future will be filled with qualities like harmony and understanding, sympathy and trust, freedom and peace, just as described in the song *"Aquarius" by the 5th Dimension.*
