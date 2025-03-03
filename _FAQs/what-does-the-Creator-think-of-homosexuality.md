@@ -1,6 +1,6 @@
 ---
 question: "What does the Creator think of homosexuality?"
-short_answer: The Creator does not condemn it, all of the creatures so it.
+short_answer: The Creator does not condemn homosexuality.
 ---
 
 The Creator does not condemn homosexuality. In fact, He says that only human beings try to make heterosexual relationships work, despite their inherent incompatibilities. If humans were honest with themselves, they would recognize that these relationships require constant effort, compromise, and struggle to sustain. The high divorce rates in human society are clear evidence that they do not naturally work.
