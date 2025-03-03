@@ -17,12 +17,20 @@ collections:
   insights:
     output: true
     permalink: /arts/:name/
+  TAG:
+    output: true
+    permalink: /TAG/:name/
 defaults:
   - scope:
       path: ""
       type: "FAQs"
     values:
       layout: "faqs"
+  - scope:
+      path: ""
+      type: "TAG"
+    values:
+      layout: "TAG"
   - scope:
       path: ""
       type: "insights"

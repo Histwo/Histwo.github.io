@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Death Toll: Chemical Dissolution as a Body Disposal Method During The American Genocide (TAG)"
 date: 2025-01-26
-permalink: /Body-Disposal
+permalink: /TAG/Body-Disposal
 tags: ["methods"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Slaughter Symphony: The Assault on Christianity and the Vulnerable"
 date: 2025-02-01
-permalink: /SlaughterSymphony
+permalink: /TAG/SlaughterSymphony
 tags: ["atrocities"]
 ---
 TAG's orchestrators view it as a necessary purge of Christians and other undesirables like the impoverished or homeless, clearing the path for an authoritarian regime:

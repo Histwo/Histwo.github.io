@@ -1,7 +1,7 @@
 ---
 title: "The Creator Assures the American Public: No One Is Above His Law"
 date: 2024-08-26
-permalink: /CSOC
+permalink: /TAG/CSOC
 tags: ["news"]
 ---
 ## the Creator's Statement on TAG

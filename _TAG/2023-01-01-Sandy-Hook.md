@@ -1,8 +1,8 @@
 ---
 title: "The Sandy Hook Massacre"
 date: 2023-01-01
-permalink: /SandyHook
-tags: ["atrocities"]
+permalink: /TAG/SandyHook
+tags: ["orchestrations"]
 ---
 In 2022, the quiet town of Sandy Hook in Maury County, Tennessee, became the epicenter of a chilling tragedy that erased generations of two prominent families—the Crawleys and the Rogers—from existence. What began as a perplexing case of mass disappearance soon unraveled into a sinister tale of covert operations, leaving behind a legacy of sorrow, unanswered questions, and a scarred community.  
 

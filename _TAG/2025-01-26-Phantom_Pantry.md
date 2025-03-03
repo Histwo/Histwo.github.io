@@ -1,7 +1,7 @@
 ---
 title: "The Phantom Pantry Operation: A Deceptive Tragedy"
 date: 2025-01-26
-permalink: /Phantom-Pantry/
+permalink: /TAG/Phantom-Pantry/
 tags: ["orchestrations"]
 ---
 

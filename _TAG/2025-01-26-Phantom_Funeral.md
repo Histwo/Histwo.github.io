@@ -1,7 +1,7 @@
 ---
 title: "Phantom Funerals: Hurricane Annie’s Masquerade Church Massacres"
 date: 2025-01-26
-permalink: /Phantom-Funeral/
+permalink: /TAG/Phantom-Funeral/
 tags: ["orchestrations"]
 ---
 

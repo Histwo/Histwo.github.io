@@ -69,4 +69,33 @@ The Creator, who believes in not intervening in the activities of His creatures 
 - [The CIA's Masquerade: Mount Calvary Missionary Baptist Church, Inc.](/TAG/MCMBCI)
 
 ### Warnings & Advisories
-- [lostOne](/TAG/lostOne)
+<ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {% assign alert_items = site.TAG | where_exp: "item", "item.tags contains 'alerts'" %}
+    {% assign sorted_alerts = alert_items | sort: 'date' | reverse %}
+    {% for alert in sorted_alerts %}
+    <li>
+    <p>
+        <a class="post-link" href="{{ alert.url | relative_url }}">
+        {{ alert.title | escape }}
+        </a>
+    </p>
+    </li>
+    {%- endfor -%}
+</ul>
+
+### TAG News
+<ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {% assign news_items = site.TAG | where_exp: "item", "item.tags contains 'news'" %}
+    {% assign sorted_news = news_items | sort: 'date' | reverse %}
+    {% for n in sorted_news %}
+    <li>
+    <p>
+        <a class="post-link" href="{{ n.url | relative_url }}">
+        {{ n.title | escape }}
+        </a>
+    </p>
+    </li>
+    {%- endfor -%}
+</ul>
