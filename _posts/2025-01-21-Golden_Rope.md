@@ -1,5 +1,5 @@
 ---
-title: "President Trump's Golden Rope (a Virtual Prison)"
+title: "President Trump's Golden Rope--A Virtual Prison for one of the Creator's two servants"
 date: 2025-01-21
 permalink: /GoldenRope
 ---
