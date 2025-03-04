@@ -75,6 +75,7 @@ The Creator, who believes in not intervening in the activities of His creatures 
     {% assign sorted_alerts = alert_items | sort: 'date' | reverse %}
     {% for alert in sorted_alerts %}
     <li>
+    <span class="post-meta">{{ alert.date | date: date_format }}</span>
     <p>
         <a class="post-link" href="{{ alert.url | relative_url }}">
         {{ alert.title | escape }}
@@ -91,6 +92,7 @@ The Creator, who believes in not intervening in the activities of His creatures 
     {% assign sorted_news = news_items | sort: 'date' | reverse %}
     {% for n in sorted_news %}
     <li>
+    <span class="post-meta">{{ n.date | date: date_format }}</span>
     <p>
         <a class="post-link" href="{{ n.url | relative_url }}">
         {{ n.title | escape }}
