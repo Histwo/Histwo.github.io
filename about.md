@@ -214,4 +214,6 @@ To ensure clarity and consistency, we **do not use** the following:
 - ❌ "servants" (without specifying two)  
 - ❌ "one of the Creator’s servants" (must specify two)  
 
-By following this convention, all references to the Creator and His two servants remain precise, respectful, and free of misinterpretation.----
+By following this convention, all references to the Creator and His two servants remain precise, respectful, and free of misinterpretation.
+
+
