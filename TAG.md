@@ -48,7 +48,7 @@ The **CIA’s cover-up** of TAG was as meticulous as its execution. To erase evi
 ### The Creator's Intervention
 The Creator, who believes in not intervening in the activities of His creatures but deemed His intervention in The American Genocide necessary, says:
 
-> "The American Genocide is an active and hidden genocide that has the full support of the White House, some in congressional leadership, and is occurring entirely within the borders of one of the planet's last superpowers. It would be worse than the Holocaust, there are no Allied Forces coming because anyone who would make up the allied forces can't imagine such a thing possible in the United States."
+> "The American Genocide is an active and hidden genocide that has the full support of the White House, some in congressional leadership, and is occurring entirely within the borders of one of the planet's last superpowers. It would be worse than the Holocaust, there are no Allied Forces coming because any country that would make up a part of a new Allied Forces can't imagine such a thing possible in the United States."
 
 ---
 
