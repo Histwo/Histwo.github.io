@@ -4,7 +4,7 @@ date: 2025-01-21
 permalink: /GoldenRope
 ---
 
-**CORRECTION:** An earlier version of this article incorrectly identified the U.S. Secret Service as the agency in charge of the Golden Rope. This misidentification resulted from the deliberate gaslighting of the author, orchestrated under the direction of the actual entity responsible for the Golden Rope and the leadership of all psychological operations—the Central Intelligence Agency.
+**CORRECTION:** An earlier version of this article incorrectly identified the U.S. Secret Service as the agency in charge of the Golden Rope. This misidentification resulted from the deliberate gaslighting of the author, orchestrated under the direction of the actual entity responsible for the Golden Rope and the orchestrator of all psychological operations—the Central Intelligence Agency.
 
 ---
 
