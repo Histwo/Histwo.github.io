@@ -4,6 +4,10 @@ date: 2025-01-21
 permalink: /GoldenRope
 ---
 
+**CORRECTION:** An earlier version of this article incorrectly identified the U.S. Secret Service as the agency in charge of the Golden Rope. This misidentification resulted from the deliberate gaslighting of the author, orchestrated under the direction of the actual entity responsible for the Golden Rope and the leadership of all psychological operations—the Central Intelligence Agency.
+
+---
+
 ## **Introduction**  
 
 The **Golden Rope** is a **secret containment and incapacitation operation** that **one of the Creator’s two servants** describes as **"a secret, extrajudicial but open prison."** Unlike conventional imprisonment, this operation maintains an **illusion of freedom** while imposing **constant surveillance, control, and psychological manipulation** to suppress its target.  
@@ -43,9 +47,11 @@ Surveillance under the Golden Rope surpasses even the most secure federal prison
 
 The **ultimate goal** is to **incapacitate one of the Creator’s two servants**, ensuring that he **cannot perform his duties as assigned by the Creator** that threaten to **expose the truth** of **atrocities committed by the orchestrators of The American Genocide** and could **imprison them**.  
 
-## **The Golden Rope Is Intended to Bind His Servant, Who:**  
+## **His servant**
 
-- Is the **last surviving member** of **Mount Calvary Baptist Church** in Lexington, Kentucky, following the **CIA-conducted massacre** of the congregation on **April 2, 2023**.  
+The Golden Rope is intended to bind and incapacitate His servant, who:
+
+- Is the **last living member** of **Mount Calvary Baptist Church** in Lexington, Kentucky, following the **CIA-conducted massacre** of the congregation on **April 2, 2023** and subsequent targeted killings of church members not present on the day of the massacre.
 - Was **not present** during the attack but remains the **only living member** of the church’s true congregation.  
 - Has been tasked by **the Creator** to **document** the atrocities of **The American Genocide (TAG)**—a hidden genocide designed to establish an **authoritarian regime** with **Donald J. Trump as supreme leader**.  
 - Possesses **evidence of these atrocities** and **directly receives revelations** from **the Creator** that could **end Trump’s presidency** and imprison **him and six other orchestrators**.  
