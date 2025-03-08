@@ -1,4 +1,8 @@
-# **The Golden Rope: The Attempted Incapacitation of one of the Creator’s two servants**  
+---
+title: "The Golden Rope: The Attempted Incapacitation of one of the Creator’s two servants"
+date: 2025-01-21
+permalink: /GoldenRope
+---
 
 ## **Introduction**  
 

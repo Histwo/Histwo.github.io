@@ -1,6 +1,7 @@
 ---
 title: "Media Advisory for the Creator's Divide & Conquer"
 date: 2025-01-31
+permalink: /media
 ---
 **FOR IMMEDIATE RELEASE**  
 
