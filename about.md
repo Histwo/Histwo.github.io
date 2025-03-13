@@ -1,5 +1,6 @@
 ---
 title: "the Creator and His two servants"
+permalink: /about
 ---
 
 # **the Creator**
