@@ -3,7 +3,7 @@ title: "Home"
 list_title: "News and Updates"
 layout: home
 ---
-## the Creator's two servants: Instruments of His will. Incarnated for His purposes. Executing His justice.
+## the Creator's two servants: Instruments of His will. Incarnated for His purposes. 
 ![the cherubim](http://Histwo.github.io/cherubim.jpg)
 
 ## who the Creator is
