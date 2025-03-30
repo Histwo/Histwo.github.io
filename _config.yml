@@ -10,6 +10,7 @@ header_pages:
   - TAG.md
   - DC.md
   - lostOne.md
+  - R.md
 collections:
   FAQs:
     output: true
