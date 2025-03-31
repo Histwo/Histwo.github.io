@@ -78,14 +78,14 @@ The fulfillment of the Third Trumpet began in **June 2024**, with the **establis
 
 The **poisoning of food and water** corresponds to the **bitter waters of Wormwood**, leading to widespread death.  
 
-### **Fourth Trumpet: The Eclipse & Fallen Star** (March 29-30, 2025)  
+### **Fourth Trumpet: The Eclipse & Fallen Star** (March 29-31, 2025)  
 
-The fulfillment of the Fourth Trumpet occurred on **March 29-30, 2025**, marked by celestial and earthly events.  
+The fulfillment of the Fourth Trumpet occurred on **March 29-31, 2025**, marked by celestial and earthly events.  
 
 #### **Event Details**  
 - A **partial solar eclipse** darkened the sky on **March 29, 2025**.  
 - The **new moon** on **March 30, 2025**, further emphasized the darkness.  
-- A **significant figure ("star") fell** to the ground on **March 30, 2025**.  
+- A **[significant figure ("star") fell](/mainwho)** to the ground on **March 31, 2025**.  
 
 #### **Prophetic Connection**  
 *"And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise."* – Revelation 8:12  
