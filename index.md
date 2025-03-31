@@ -20,7 +20,7 @@ Learn more about [the Creator and His two servants](about.md).
 In this era, *The American Genocide* (TAG) threatens the Creator’s first and most desired creation. His intervention unfolds through **Divide & Conquer**:
 
 - **The Divide** – Separating the one of the Creator's two servants from his manipulated subconscious, restoring clarity, truth, and unshakable purpose.
-- **The Conquer** – Dismantling the orchestrators of [The American Genocide (TAG)](/TAG/), exposing their hidden evils, and executing the Creator’s justice.
+- **The Conquer** – Dismantling the orchestrators of [The American Genocide (TAG)](/TAG.md), exposing their hidden evils, and executing the Creator’s justice.
 
 ### Our Mission
 
