@@ -49,7 +49,7 @@ The fulfillment of the First Trumpet occurred in **October 2022** with the **San
 
 This event represents the **burning up of a community**, symbolizing the destruction of a foundational lineage.  
 
-### **Second Trumpet: Church Attacks   
+### **Second Trumpet: Church Attacks**   
 
 The fulfillment of the Second Trumpet began on **April 2, 2023**, with the **congregation massacre at Mount Calvary Baptist Church** in Lexington, Kentucky.  Similar attacks were launched on six additional churches in Central Kentucky and Chattanooga, Tennessee.
 
@@ -64,7 +64,7 @@ The fulfillment of the Second Trumpet began on **April 2, 2023**, with the **con
 
 The destruction of the congregation reflects **the casting of a burning mountain into the sea**, symbolizing the **erasure of a community of faith**.  
 
-### **Third Trumpet: Deceptive Aid 
+### **Third Trumpet: Deceptive Aid**
 
 The fulfillment of the Third Trumpet began in **June 2024**, with the **establishment of masquerade churches** offering deceptive aid.  
 
