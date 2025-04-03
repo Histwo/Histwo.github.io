@@ -3,6 +3,8 @@ title: "Home"
 list_title: "News and Updates"
 layout: home
 ---
+Save your copy of lostOne: <a href="/lostOne.txt" download>Click here to download lostOne.txt</a>
+
 ## the Creator's two servants: Instruments of His will. Incarnated for His purposes. 
 ![the cherubim](http://Histwo.github.io/cherubim.jpg)
 
