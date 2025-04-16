@@ -1,5 +1,6 @@
 ---
 title: "When the Doves Cry: The True Meaning Behind Prince’s Song"
+permalink: /whenthedovescry
 ---
 
 Prince’s *When Doves Cry* is often seen as a song about lost love and emotional turmoil, but its true meaning is far more profound. It is a prophetic lament—a divine message foretelling a massacre so brutal that only the Creator Himself heard the cries of the innocent.  
