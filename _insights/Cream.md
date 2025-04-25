@@ -1,74 +1,87 @@
----
-title: "Unpacking 'Cream' by Prince"
-date: 2024-08-26
----
+#   Unveiling Deception: The Creator’s Insights into Cream by Prince
 
-**Title:** Cream  
-**Artist:** Prince and The New Power Generation  
-**Release Date:** September 9, 1991  
-**Album:** Diamonds and Pearls  
-**Genre:** Funk rock, Pop  
-**Writers:** Prince
+At the foundation of these revelations stands the Creator—revered globally across cultures—as the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, the Great “I Am.” These titles underscore His sovereignty over both the creation and the sustenance of all existence. Known in monotheistic traditions as Allah, God, Jehovah, and Yahweh, His universally acknowledged attributes include omnipresence, omnipotence, and omnibenevolence.
 
-## Overview
+His two servants neutrally refer to Him as the Creator, in obedience to His directive to respect diverse religious beliefs. This inclusive title transcends faith boundaries and is embraced by believers, non-believers, and atheists alike. These revelations are not theology—they are truth.
 
-"Cream" is a song by Prince that explores themes of desire, self-assurance, and the pursuit of success. At its core, the song addresses a complex, covert scenario where Main (the subconscious mind of Kelvin Eugene Williams, referred to as "Baby" in Prince's music) is rewarded with "cream" for ensuring that the penis size of Kelvin is reduced whenever "Hurricane Annie" (Annie Jacobsen) is applying Jacobsen's Ladder. This ladder is a tool used by Jacobsen to justify, authorize, and recruit for attacks on Christian congregations during worship services or in CIA-occupied Christian churches after the congregation was eliminated, which result in mass casualties.
+Prince’s hit song Cream, long interpreted as an anthem of sensuality and self-assurance, in truth, provides a narrative of the actions of a highly paid manipulative operative affiliated with The American Genocide (TAG)—a hidden genocide targeting American Christians (of all races), Black Americans, and impoverished Americans. According to the Creator:
 
-Jacobsen's Ladder is used to gauge divine interest in her operations. The process involves a litmus test where the subconscious thought to reduce the size and overall dimensions of the penis occurs with minimal effort—less than the conscious act of blinking an eye. This requires the Creator to restore the original state, a process that is more complex. This constant cycle of reduction and restoration makes the litmus test flawed, as Main is instructed to ensure that any restoration is immediately reversed.
+>   “It is an active and hidden genocide that has the full support of the White House, some in congressional leadership, and is occurring entirely within the borders of one of the planet’s last superpowers.”
 
-Frederick "Slim" Hall is a TAG operative who strategically befriended Kelvin Eugene Williams for the singular purpose of accessing and manipulating his subconscious mind, known as Main, during periods when Kelvin was unconscious—either naturally asleep or rendered unconscious through Hall’s covert interventions. Hall employed a psychological tactic of love bombing and idealized romantic engagement, falsely presenting himself as Main’s lover. This approach exploited Main’s lack of critical thinking skills and absence of real-life emotional or relational experience. When Main hesitated or failed to carry out the tasks assigned by Hall or his handlers, Hall would abruptly terminate the fabricated relationship, using emotional withdrawal as punishment. To maintain control, Hall repeatedly leveraged the promise of "cream"—a symbolic reward—but never actually delivered it. Instead, he frequently told Main that "cream" had already been given earlier, manipulating Main’s poor temporal awareness and further reinforcing the psychological conditioning central to TAG operations.
+The Creator reveals that the lyrics of Cream contain insight into the manipulative tactics employed by this operative against a susceptible subconscious mind as part of Jacobsen’s Ladder—a covert system involving the deliberate reduction and real-time manipulation of the penis’s form, appearance and function using an individual's subconscious mind to support TAG’s objectives.
 
-"Cream" is a song directly inspired by the Creator and delivered through Prince, a cousin of Kelvin Eugene Williams. Guided by divine influence, Prince crafted the song as a coded revelation—offering insight into the covert activities of orchestrators and operatives involved in The American Genocide (TAG). Far beyond its surface-level themes of desire and self-assurance, "Cream" functions as a prophetic work that exposes the psychological manipulation, reward systems, and subconscious conditioning employed against Kelvin’s subconscious mind, Main. Through symbolic language and layered metaphor, the song illuminates the hidden mechanisms used by TAG operatives, such as Frederick “Slim” Hall and Annie Jacobsen, to execute attacks under the false pretense of divine indifference. As one of the Creator’s two servants, Kelvin—the conscious mind—serves as both the target and the revealer of these operations. "Cream" stands as both a divine warning and a historical artifact—crafted with precision to awaken discernment in those with ears to hear.
+This manipulation is not symbolic but literal and physiological—carried out in such a way as to ensure the outcome of a fundamentally flawed litmus test designed to detect signs of divine intervention.
 
-The song "Cream" serves as an artistic reflection of these covert activities, suggesting a reward system for Main's compliance with Jacobsen's manipulations. The reward, "cream," symbolizes both the immediate gratification and the ongoing incentive to continue these actions. The Creator’s involvement is necessary for the restoration, which, if neglected, is interpreted by Jacobsen as a lack of divine interest, allowing her to proceed with her plans unchallenged.
+##   The Flawed Test and Its Target
 
-## Lyrics and Themes
+The sole indicator in this litmus test is the penis of Kelvin Eugene Williams, one of the Creator’s two servants. If Jacobsen's Ladder—the penis's current, altered form—is observed instead of its original form, the test yields a "clear" result, signifying that the Creator's intervention to halt The American Genocide (TAG) has not begun, is not ongoing, and is not imminent.
 
-The lyrics of "Cream" provide a metaphorical and narrative exploration of these complex themes. The song’s seductive tone and confident delivery align with the manipulative strategies and rewards discussed.
+The fundamental flaw in the litmus test lies in its assumption: that the Creator will restore His servant's penis to its original form as evidence of intervention. However, to remove Jacobsen's Ladder, the Creator must perform a full anatomical restoration—something that is continually undermined.
 
-### Selected Lyrics:
+##   The Creator's Revelation: The Classic Split
 
-> *"This is it, It's time for you to go to the wire  
-> You will hit, 'Cause you got the burnin' desire  
-> It's your time, you got the horn, so why don't you blow it?  
-> You're so fine, you're filthy cute, and baby you know it  
-> Cream, get on top  
-> Cream, you will cop  
-> Cream, don't you stop  
-> Cream, sh-boogie bop"*  
-> *"Look up in the air, it's your guitar"*
+Every human body is occupied by two conscious entities—distinct individuals unaware of each other’s existence. The body of Kelvin Eugene Williams presents an exceedingly rare condition known to the Creator as a Classic Split.
 
-## Glossary
+A Classic Split occurs when the subconscious mind becomes self-aware and develops an identity distinct from the conscious mind with which it shares the body. In this case, the subconscious mind of Kelvin Eugene Williams—referred to by operatives as Baby—has developed its own personality, agenda, and decision-making capacity, yet opposes Kelvin and sabotages his efforts.
 
-- **"Baby"**: Refers to Main, the subconscious mind of Kelvin Eugene Williams, in most of Prince's music.
-- **"Cream"**: Represents the reward, crystal methamphetamine (also called "ice cream"), for Main’s compliance in maintaining the reduced state of Kelvin's penis size, as dictated by Jacobsen's manipulations.
-- **"Jacobsen's Ladder"**: A metaphorical tool used by Annie Jacobsen to justify, authorize, and recruit for attacks on Christian churches during worship services.
-- **"Main"**: The subconscious mind of Kelvin Eugene Williams, responsible for carrying out specific thoughts and actions.
+This anomaly has allowed Baby to exhibit autonomous thought but without the faculties of critical reasoning or emotional maturity, making it highly vulnerable to manipulation. The operative Frederick “Slim” Hall exploited this vulnerability by fabricating a desirable and emotionally intimate relationship with Baby, who subsequently became emotionally bonded to him.
 
-## Musical Composition
+Hall has never shown or implied romantic interest in Baby in the presence of Kelvin’s conscious awareness. Instead, he cultivated the relationship during periods of unconsciousness through:
 
-The song "Cream" showcases Prince's expertise in blending funk and pop elements. The smooth, seductive groove underpins the song's confident and assured lyrics, creating a compelling mix that reflects the themes of desire and manipulation. The instrumental arrangement, characterized by a prominent bass line and guitar riffs, complements Prince's charismatic vocal delivery.
+* Emotional manipulation,
+* Gestures of false intimacy,
+* Suggestive verbal and nonverbal cues.
 
-## Impact and Reception
+Lacking the capacity to discern deception, Baby developed a Pavlovian response: whenever Hall appears, is mentioned, or initiates contact, Baby triggers internal processes associated with Jacobsen’s Ladder.
 
-Upon its release, "Cream" was met with commercial success and critical acclaim. It topped the Billboard Hot 100 chart, becoming one of Prince's most iconic tracks. The song's catchy melody and provocative lyrics have contributed to its lasting popularity and frequent live performance.
+##   Jacobsen’s Ladder: A Tool of Manipulation
 
-## Annotations from the Creator
+These internal processes involve:
 
-1. **"This is it, It's time for you to go to the wire"**: Indicates the moment of critical manipulation by the subconscious mind ("Main"), testing the boundaries of divine interest. "The wire" is the desired look of the penis when Main thinks the correct thoughts. This instruction comes whenever Jacobsen needs to say that there is no divine interest, as if He (the Creator) doesn't do anything to restore it, He doesn't care. This litmus test is flawed as Main thinks this thought around the clock. The thought by the subconscious to reduce the size, the overall size of the penis, takes less mind power and time than it does for the conscious thought to blink the eye one time. Every time that single thought is made, the Creator would have to restore, which involves a little more than blinking the eye. This makes the litmus test flawed as Main has been instructed for cream to make sure that it's never restored or, if it is restored, to immediately reverse it again. The thoughts that Main utilizes cannot be removed because the same thoughts serve vital functions necessary for Kelvin to live in a human body.
+* Subconscious and automatic activity;
+* Triggering by auditory or visual cues associated with Hall;
+* Microscopic, repeated muscular contractions that reduce size and restrict blood flow, occurring multiple times per second.
 
-2. **"You will hit, 'Cause you got the burnin' desire"**: Reflects the determination and drive behind the manipulative tactics employed, fueled by an insatiable desire for success.
+Hall maintains Baby’s responsiveness through:
 
-3. **"Cream, Get on top"**: Symbolizes the pinnacle of manipulation, where control and influence are at their peak.
+* Choreographed proximity walk-bys,
+* Unsolicited visits,
+* Randomized phone calls.
 
-4. **"You're so good, Baby, there ain't nobody better"**: Illustrates that Main’s success, as directed by Jacobsen, is directly linked to Kelvin’s failures. Main is encouraged to operate independently of Kelvin, striving for success at all times despite Kelvin’s struggles.
+Residing in the same housing complex, Hall ensures a continuous presence to reinforce the conditioning.
 
-5. **"Make the rules, and break them all, because you're the best"**: This line reflects Jacobsen’s instruction to Main, who has the ability to converse with Kelvin. Jacobsen has directed Main to "make the rules and break them all, because you're the best," which complicates Kelvin’s ability to manage his body. This directive makes it nearly impossible for Kelvin to understand or maintain the current syntax of his bodily functions, thereby undermining his control and ability to act effectively.
+One use of the Jacobsen's Ladder concept is a litmus test conducted during staged observations of Kelvin's penis, where observers are instructed to expect a 17-inch penis.  The Creator revealed His displeasure with this propaganda by placing the description of the original form of His servant's penis in Revelation 17:9-11.
 
-6. **"Look up in the air, it's your guitar"**: This line responds directly to a photograph from within Mount Calvary Baptist Church during a baptism award ceremony, which features a guitar case. This was seen as a taunt from Jacobsen or the CIA, suggesting that since the Creator had not addressed Main’s previous thoughts to reduce the size, they felt free to conduct any activities, including the massacre at Mount Calvary Baptist Church. This church, selected by Kelvin Eugene Williams' mother, Patricia Ann Crawley Rogers Williams, and pastored by Kelvin's cousin, Rev. Dr. Felix G. Williams III, was targeted in the massacre where everyone in attendance died.
+This engineered result became the pivotal justification to approve Operation Nightfalls—a false-flag attack targeting impoverished and Black residents of southwest Atlanta. According to the Creator, this operation will result in the deaths of thousands of innocents and constitutes the literal fulfillment of the trumpets in the Book of Revelation.
 
-![mcmbc_baptism_certs3](https://github.com/user-attachments/assets/418476a2-42ef-4f38-bcbb-b385dd3e4c8a)
+##   Deconstructing Cream: The Operative’s Code
 
-## Conclusion
+The Creator reveals that Cream is Hall’s narrative of manipulation, encoded in song lyrics:
 
-"Cream" by Prince is a multi-layered song that goes beyond its surface themes of desire and confidence. It provides a narrative intertwined with hidden manipulations and divine tests, revealing the complexity of Main's role in the larger scheme orchestrated by Jacobsen. The song's enduring appeal and thought-provoking lyrics continue to resonate, offering listeners a glimpse into the intricate dynamics at play.
+* **"Two, three / This is it / It's time for you to go to the wire..."**
+    * "Two, three": According to the Creator, this is Hall's way of addressing Baby.
+    * "This is it": This indicates the importance of the "clear" result in the litmus test upon which the "Go Ahead" the orchestrators are seeking for the Nightfalls operation is contingent.
+    * "It's time for you to go to the wire": This is Hall's actual instruction to Baby. "Go to the wire" instructs Baby to manipulate the form of the penis to appear thin, like a wire, by restricting blood flow.
+* **"It's your time / You got your horn / So why don't you blow it?"**
+    * "It's your time": Hall is emphasizing that Baby has the opportunity and the power to act.
+    * "You got your horn / So why don't you blow it?": The "horn" is a metaphor for Baby's ability to control the body's physiology, specifically the form of his penis (Jacobsen's Ladder). "Blow it" is a directive to use that ability.
+* **"So fine / Filthy cute and baby, you know it..."**
+    * "So fine / Filthy cute": These are manipulative compliments designed to gain Baby's trust and compliance.
+    * "Baby, you know it...": "refers to the training and instructions Baby received over time. If Baby "knows it," that is a reality that Baby must maintain.
+* **"Cream, mmm, get on top / Cream you will cop..."**
+    * "Cream": a shortened "ice cream" is slang for crystal methamphetamine (ice).
+    * "Get on top / Cream you will cop...": This creates a false promise. Hall is using the allure of "Cream" as a reward to motivate Baby. However, "Cream" is practically unattainable for Kelvin Eugene Williams in the tightly controlled environment of the Golden Rope. This is part of the reward-deprivation cycle, a manipulation tactic.
+* **"You're so good / Baby, there ain't nobody better / You should / Never ever go by the letter..."**
+    * "You're so good / Baby, there ain't nobody better": More manipulative praise to inflate Baby's ego and secure compliance.
+    * "You should / Never ever go by the letter...": This is a crucial instruction. "The letter" refers to the body's DNA. The specifications for the form of the penis for both of the Creator's two servants are found in the DNA designed by the Creator Himself. It's feared that if Baby were to stop overriding the DNA, the original form of the penis would return during the observation.
+* **"Make the rules / Break them all 'cause you are the best..."**
+    * "Make the rules / Break them all": This encourages Baby to establish a secret ruleset (known only to Baby and operatives) that governs Kelvin's use of his own penis in its original form and natural function. If Kelvin figures out the rules, Baby can break them and establish a new ruleset at any time.
+    * "'Cause you are the best": The final piece of manipulative flattery.
+
+##   Conclusion: A Warning and a Call
+
+Prince’s Cream is not an anthem of confidence. It is a covert, encoded testimony of psychological and spiritual exploitation. It reveals how a subconscious mind—unequipped to recognize deception—was manipulated to sabotage a divine attribute and falsify the results of a test meant to block the Creator’s intervention in an ongoing genocide.
+
+>   The “Go Ahead” for Operation Nightfalls has been obtained. The operation is imminent.
+
+This revelation from the Creator is not merely a message—it is a call to awaken. Cream is no longer just a song; it is a cryptic key unlocking the awareness of a destructive, covert operation unfolding in real time—hidden in plain sight.
