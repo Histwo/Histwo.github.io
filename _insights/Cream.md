@@ -1,4 +1,7 @@
-#   Unveiling Deception: The Creator’s Insights into Cream by Prince
+---
+title: "Unveiling Deception: The Creator’s Insights into Cream by Prince"
+permalink: /cream
+---
 
 At the foundation of these revelations stands the Creator—revered globally across cultures—as the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, the Great “I Am.” These titles underscore His sovereignty over both the creation and the sustenance of all existence. Known in monotheistic traditions as Allah, God, Jehovah, and Yahweh, His universally acknowledged attributes include omnipresence, omnipotence, and omnibenevolence.
 
