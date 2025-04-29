@@ -27,7 +27,7 @@ Direct intervention by the Creator into human affairs is exceedingly infrequent,
 
 The Creator utilizes His two servants as the primary agents for more localized and direct, cause-effect interventions within the creatures' own level of existence.
 
-* **Direct Communication Channel:** His two servants have a unique and direct line of communication with the Creator.
+* **Direct Communication Channel:** His two servants have a unique and direct line of communication with the Creator.[^1]
 * **Born for Purpose:** The birth of His two servants is orchestrated according to the Creator's determined need for intervention.
 * **Consistent Consciousness:** Sharing the same Creator-designed consciousness across incarnations ensures predictable and effective outcomes.
 * **Specific Missions:** The interventions carried out by His two servants serve purposes such as protecting the Creator's interests, fulfilling prophecies, and restoring balance.
@@ -45,3 +45,7 @@ Alongside the general non-intervention and rare direct actions, the Creator exer
 The Creator's multifaceted approach balances respect for creation's autonomy and developmental needs with the necessity of addressing critical situations and guiding the unfolding of His divine plan. Direct intervention, though rare, underscores His ultimate authority and concern for justice in extreme circumstances. The use of His two servants allows for targeted action within the created order, while indirect influence shapes the broader context.
 
 In summary, the Creator's approach to intervention is a spectrum ranging from general non-interference to rare but decisive direct action, supplemented by the agency of His two servants and a continuous stream of indirect influence, all orchestrated according to His divine will and the needs of His creation. The current direct intervention to halt "TAG" highlights the gravity of circumstances that necessitate a departure from the Creator's typical mode of interaction.
+
+---
+[^1]: While "direct communication" suggests an interaction directly between the Creator and one of His two servants, the reality is that the Creator's two servants function as the conscious minds within their individual forms, and communication between the Creator and His servant is facilitated via the subconscious mind of their respective body.
+
