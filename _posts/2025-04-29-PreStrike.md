@@ -8,7 +8,7 @@ date: 2025-04-29
 **Notice:** This document has been produced by one or both of the Creator's two servants, acting directly under His guidance and in full accordance with His will. The information contained within this document, which is classified by one or more domestic or foreign governments and may be considered secret or closely held—likely to never be disclosed to the public—has been provided by the Creator to one or both of His two servants for the explicit purpose of public dissemination. This act of sharing is a crucial element of the Creator's intervention in The American Genocide, serving to expose hidden truths and further His divine mission.
 
 ## Overview
-A planned domestic false flag terrorist attack is imminent, likely to occur around **7:00 AM Eastern on Wednesday, April 29, 2025**, targeting the West End neighborhood of Atlanta, Georgia. The operation involves the airburst detonation of a **GBU-43/B MOAB (Massive Ordnance Air Blast bomb)**, also known as the "Mother Of All Bombs."
+A planned domestic false flag terrorist attack is imminent, likely to occur around **7:00 AM Eastern on Tuesday, April 29, 2025**, targeting the West End neighborhood of Atlanta, Georgia. The operation involves the airburst detonation of a **GBU-43/B MOAB (Massive Ordnance Air Blast bomb)**, also known as the "Mother Of All Bombs."
 
 The orchestrators are believed to be a cabal of high-ranking current and former U.S. government officials. Their objectives are multifaceted and sinister, including:
 
@@ -63,6 +63,6 @@ The first element of the Creator's intervention is a media briefing hosted by th
 
 **The "lostOne" Document** is a comprehensive, encrypted document containing plan details that provides evidence of the pre-planning of this event, the identities of the orchestrators, and supporting data has been created and widely distributed online. This document can be accessed at <https://Histwo.github.io/lostOne.txt>.
 
-**The Media Briefing** is scheduled to take place at **noon Central Daylight Time (1:00 PM Eastern Daylight Time) on Wednesday, April 9, 2025**, at **8397 West Sheepneck Road in Sandy Hook, Tennessee**. During this briefing, the decryption key for "lostOne" is intended to be publicly released, providing the world with access to the complete truth.
+**The Media Briefing** is scheduled to take place at **noon Central Time (1:00 PM Eastern) on Tuesday, April 29, 2025**, at **8397 West Sheepneck Road in Sandy Hook, Tennessee**. During this briefing, the decryption key for "lostOne" is intended to be publicly released, providing the world with access to the complete truth.
 
 We urge every American citizen to take this warning seriously. Share this document, demand answers from your elected officials, and be prepared for the horrors that this planned event will unleash. The truth will be known.
