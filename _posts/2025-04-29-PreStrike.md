@@ -1,15 +1,14 @@
 ---
-title: "Pre-Strike: Atlanta"
-date: 2025-04-08
+title: "Pre-Strike: The Imminent Catastrophe in Atlanta"
+date: 2025-04-29
 ---
 
-# Pre-Strike: The Imminent Catastrophe in Atlanta
 **A Warning to the American Public**
 
 **Notice:** This document has been produced by one or both of the Creator's two servants, acting directly under His guidance and in full accordance with His will. The information contained within this document, which is classified by one or more domestic or foreign governments and may be considered secret or closely held—likely to never be disclosed to the public—has been provided by the Creator to one or both of His two servants for the explicit purpose of public dissemination. This act of sharing is a crucial element of the Creator's intervention in The American Genocide, serving to expose hidden truths and further His divine mission.
 
 ## Overview
-A planned domestic false flag terrorist attack is imminent, likely to occur around **4:00 AM Eastern Daylight Time (EDT) on Wednesday, April 9, 2025**, targeting the West End neighborhood of Atlanta, Georgia. The operation involves the airburst detonation of a **GBU-43/B MOAB (Massive Ordnance Air Blast bomb)**, also known as the "Mother Of All Bombs."
+A planned domestic false flag terrorist attack is imminent, likely to occur around **7:00 AM Eastern on Wednesday, April 29, 2025**, targeting the West End neighborhood of Atlanta, Georgia. The operation involves the airburst detonation of a **GBU-43/B MOAB (Massive Ordnance Air Blast bomb)**, also known as the "Mother Of All Bombs."
 
 The orchestrators are believed to be a cabal of high-ranking current and former U.S. government officials. Their objectives are multifaceted and sinister, including:
 
