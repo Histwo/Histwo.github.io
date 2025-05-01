@@ -27,7 +27,10 @@ This encrypted document details a planned and authorized catastrophic event, sch
   
 - Copy & Paste: 
    Select all of the text below, copy (Ctrl-C) then paste (Ctrl-V) into your text editor or email application.
+
    
+<a href="magnet:?xt=urn:btih:dc613d8b89383733f7514007ab3b4e593e0f6f7b&dn=0xCF15C0CE.zip">m</a>
+
 ``` 
 
 -----BEGIN PGP MESSAGE-----
