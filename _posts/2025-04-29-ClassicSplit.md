@@ -1,4 +1,7 @@
-## Classic Split: Main's Quest for Autonomy and the Torment of Kelvin
+---
+title: "Classic Split: Main's Quest for Autonomy and the Torment of Kelvin"
+date: 2025-04-29
+---
 
 The subconscious mind plays a vital role, managing bodily functions and coordinating body movements, and handling memory management. Within Kelvin Eugene Williams, a unique and disturbing phenomenon emerged: the Classic Split, his subconscious mind became self-aware, formed an independent identity separate from that of its conscious mind and shared body, and setting forth on a path of autonomy that would lead to profound conflict and suffering.
 
