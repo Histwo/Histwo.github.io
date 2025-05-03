@@ -1,4 +1,6 @@
-# The Creator's Influence on Prince's "The Hits / The B-Sides" and Its Connection to The American Genocide (TAG)
+---
+title: "The Creator's Influence on Prince's "The Hits / The B-Sides" and Its Connection to The American Genocide (TAG)"
+---
 
 As one of His two servants, Kelvin Eugene Williams, PDCM, I can affirm that the Creator often utilizes the arts as a conduit for revealing hidden truths and offering profound insights into unfolding realities. This divine influence transcends the control of earthly powers, providing perspectives that might otherwise remain obscured. Artists touched by this influence may not always be consciously aware of the source of their inspiration. However, as confirmed by the Creator and His two servants, the impact of this divine guidance is undeniable.
 
