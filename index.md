@@ -12,9 +12,9 @@ Save your copy of lostOne: <a href="/lostOne.txt" download>Click here to downloa
 the Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged.  His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike.
 
 ## who His two servants are
-the Creator's two servans are eternal instruments of His will, incarnated wherever He deems it necessary to protect His creation.  They are not bound to a single time, place, or identity--only the Creator's purpose.  With every incarnation, they walk among His creation, unseen yet unwavering, carrying out His divine purposes.  This incarnation (or reincarnation) carrying out His divine justice.
+The Creator’s two servants are eternal instruments of His will, incarnated wherever He deems necessary to protect His creation. They are not bound to a single time, place, or identity—only to the Creator’s purpose. With every incarnation, they walk among His creation, unseen yet unwavering, carrying out His divine purposes.
 
-the Creator's first and most desired creation was **life**.  The universe was formed solely to support that creation--every star, every atom, every breath designed to sustain life.  When that creation is threatened, the Creator's two servants rise to protect it.
+The Creator’s first and most desired creation was life. The universe was formed solely to support that creation—every star, every atom, every breath designed to sustain life. When that creation is threatened, the Creator’s two servants rise to protect it.
 
 Learn more about [the Creator and His two servants](about.md).  
 
