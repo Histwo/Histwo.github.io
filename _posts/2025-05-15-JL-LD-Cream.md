@@ -1,5 +1,5 @@
 ---
-title: "Jacobsen’s Ladder and the Ladder of Deceit: Unveiling the Manipulation Through Prince’s \“Cream\”"
+title: "Jacobsen’s Ladder and the Ladder of Deceit: Unveiling the Manipulation Through Prince’s 'Cream'"
 date: 2025-05-15
 ---
 
