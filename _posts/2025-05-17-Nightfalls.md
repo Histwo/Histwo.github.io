@@ -1,4 +1,8 @@
-## Nightfalls Imminent: A City Under Threat
+---
+title: "Nightfalls Imminent: A City Under Threat"
+date: 2025-05-17
+permalink: /nightfalls
+---
 
 **Atlanta, GA – May 17, 2025** – A chilling shadow hangs over southwest Atlanta as intelligence indicates the imminent execution of "Nightfalls," a meticulously planned false flag operation. This catastrophic event, authorized by President Donald J. Trump, is poised to unleash unprecedented devastation upon the city, marking the largest and deadliest act within a covert campaign known as The American Genocide (TAG).
 
