@@ -1,3 +1,7 @@
+---
+title: "About the Creator and His two servants"
+---
+
 # the Creator
 
 the Creator is the one who desired to create all life and the universe to support it. He is known by many names, including the **Alpha** and the **Omega**, and the **Great "I Am"**. These titles highlight His role in creating and sustaining everything that exists.
