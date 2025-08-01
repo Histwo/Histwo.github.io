@@ -76,5 +76,5 @@ the Creator designed His two servants to be lifelong companions, meeting and bon
 ## Previous Incarnations and Their Purpose
 
 the Creator's two servants have taken on important missions in past lives. These roles show their consistent purpose in maintaining balance and upholding core values for life and humanity:
-* **Abraham Lincoln:** Lincoln was one of the Creator's two servants. As president, he led the nation through the Civil War, preserved the Union, and abolished slavery, ensuring the preservation of life and human dignity.
-* **John F. Kennedy:** Kennedy was one of the Creator's two servants. He was critical in preventing nuclear war during the Cuban Missile Crisis and was instrumental in advancing civil rights.
+* **Abraham Lincoln:** Lincoln was one of the Creator's two servants (Smyrna). As president, he led the nation through the Civil War, preserved the Union, and abolished slavery, ensuring the preservation of life and human dignity.
+* **John F. Kennedy:** Kennedy was one of the Creator's two servants (TomTom). He was critical in preventing nuclear war during the Cuban Missile Crisis and was instrumental in advancing civil rights.
